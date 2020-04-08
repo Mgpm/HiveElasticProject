@@ -1,0 +1,2578 @@
+12,clermont-ferrand,oui,dérive
+01,hendaye,oui,déraillement
+12,lille flandres,oui,sortie intempestive ou engagement d’un domaine fermé
+01,lyon part-dieu,oui,erreur de procédure
+01,aspres sur puech,oui,accident de voyageur
+02,nîmes,oui,erreur de procédure
+02,juvisy,oui,défaut géométrie voie
+12,entre bernay et lisieux,oui,porte ouverte en ligne
+01,jessains,oui,dépassement de vitesse supérieur à 40km/h
+01,entre fontpedrouse et mont-louis,oui,intempéries
+11,infrapole auvergne nivernais,non,déshuntage
+12,maroeuil,oui,talonnage d’aiguille ou bivoie
+10,technicentre de villeneuve st-georges,non,réception intempestive sur voie occupée
+11,lille flandres,oui,erreur de procédure
+10,persan beaumont,non,collision avec enfoncement de heurtoir
+11,crest,oui,erreur de procédure
+10,pantin,non,avarie matériel roulant
+10,mouzon,oui,défaut géométrie voie
+10,infrapole champagne ardennes,non,accident du travail
+11,gare d'onville,non,talonnage d’aiguille ou bivoie
+08,marmande,oui,expédition sans ordre
+07,paris,non,sortie intempestive ou engagement d’un domaine fermé
+07,goussainville,oui,déraillement
+07,paris bercy,oui,porte ouverte en ligne
+08,chantilly,oui,heurt au croisement
+08,chantilly,oui,erreur de procédure
+07,paris saint lazare,oui,porte ouverte en ligne
+07,la cluse,oui,intempéries
+07,saint denis près martel,oui,réception intempestive sur voie occupée
+07,génolhac,oui,réception intempestive sur voie occupée
+09,hausbergen,oui,pénétration intempestive sur domaine fermé
+07,le bourget,non,déraillement
+08,epinay sur seine,oui,talonnage d’aiguille ou bivoie
+06,tergnier,oui,talonnage d’aiguille ou bivoie
+07,chambery,non,franchissement de signal
+08,techicentre sud est europeen,non,electrisation
+07,lyon part-dieu,non,erreur de procédure
+08,carcassonne,non,déraillement
+10,nimes,oui,heurt au croisement
+10,batignolles,oui,dérangement des installations de sécurité
+09,moulhouse,oui,autorisation de franchissement sans vérification
+10,lannemezan,oui,franchissement de signal
+09,dijon,oui,présence de voyageurs sur voie
+09,paris bercy,non,départ sans autorisation
+09,nuits saint georges,non,incident grave
+09,uzerche,non,incendie dans un train
+09,miramas,non,accident du travail
+09,infralog limoges,non,accident du travail
+06,miramas,oui,erreur d’itinéraire
+05,entre naucelles et carmaux,oui,erreur de procédure
+06,entre morlaix et roscoff,oui,intempéries
+06,entre vitre et chateaubourg,oui,intempéries
+06,saint-avoid,oui,intempéries
+05,louvres,oui,intempéries
+05,entre dole et beseancon,oui,intempéries
+06,vern,oui,dépassement de vitesse supérieur à 40km/h
+11,angouleme,oui,matières dangereuses
+12,malause,oui,erreur de procédure
+08,crest,oui,porte ouverte en ligne
+10,miramas,oui,collision
+12,la ferte milon,oui,pénétration intempestive sur domaine fermé
+09,etain,oui,dépassement de vitesse supérieur à 40km/h
+10,carcassonne,oui,intempéries
+10,reding,oui,erreur de procédure
+12,joigny sur meuse,oui,intempéries
+09,petit vaux,oui,raté de fermeture à un passage à niveau
+08,varennes sur allier,non,porte ouverte en ligne
+08,corgoloin,oui,défaillance voie
+08,bourget triage,non,incident de marchandise dangereuse
+08,gennes longuefuye,non,déraillement sans engagement de la voie principale
+08,chambéry,non,déraillement sans engagement de la voie principale
+08,miramas,non,déraillement sans engagement de la voie principale
+08,lille flandres,oui,franchissement de signal
+09,lyon part dieu,non,porte ouverte en ligne
+05,alixian,oui,franchissement de signal
+05,lapeyrouse,oui,mouvement en sens inverse du sens normal
+04,savigny sur orge,non,franchissement de signal
+05,rixheim,non,erreur de procédure
+05,villeneuve-les-beziers,oui,collision
+05,saulon,non,talonnage d’aiguille ou bivoie
+05,chasse sur rhone,non,déraillement sans engagement de la voie principale
+05,hendaye,non,déraillement
+05,château-thierry,non,porte ouverte en ligne
+05,amberieu,non,boîte chaude
+04,saint avertin,oui,défaut ayant conduit à un risque grave
+03,reims,non,erreur de procédure
+04,dijon,non,réception intempestive sur voie occupée
+04,verneuil l'etang,oui,expédition sans ordre
+04,la riviere drugeon,non,incident caténaire
+04,montigny beauchamps,non,déraillement
+04,cannes marchandises,non,accostage brutal
+03,hyeres,non,franchissement de signal
+04,entre miecaze et viescamp,non,accident du travail
+04,strasbourg,oui,porte ouverte en ligne
+06,saint agnan noyers,non,déraillement
+05,lille,non,restitution d'une demande de fermeture de voie
+05,entre troyes et brienne le château,oui,défaut géométrie voie
+06,saint opierre des corps,non,talonnage d’aiguille ou bivoie
+06,entre gouland et tregonneau,oui,raté de fermeture à un passage à niveau
+06,technicentre lorraine,non,collision contre obstacle
+01,chauny,non,déraillement sans engagement de la voie principale
+01,hourcade,non,réception intempestive sur voie occupée
+01,la baule escoublac,non,talonnage d’aiguille ou bivoie
+01,montsoult maffliers,oui,collision contre obstacle
+01,capdenac,non,franchissement de signal
+01,nevers,oui,défaillance voie
+12,le mans,non,franchissement de signal
+01,ampuis,non,incident caténaire
+01,vénissieux,non,déraillement sans engagement de la voie principale
+01,sainte pazanne,non,talonnage d’aiguille ou bivoie
+01,paris gare de lyon,oui,déraillement sans engagement de la voie principale
+01,gare de lyon,non,déraillement
+02,grenoble,non,accostage brutal
+01,brétigny poste c,non,déraillement sans engagement de la voie principale
+01,valence,non,porte ouverte en ligne
+01,woippy triage,non,déraillement sans engagement de la voie principale
+02,bordeaux dépôt,non,déraillement sans engagement de la voie principale
+02,sotteville dépôt,non,collision par prise en écharpe
+05,mulhouse,non,erreur de procédure
+05,villeneuve les maguelone,oui,incident grave
+05,lezoux,oui,réception intempestive sur voie occupée
+05,st aignan noyer,non,dégagement intempestif du domaine fermé
+05,technicentre aquitaine,non,accident du travail
+05,vire,oui,incident grave de signalisation
+05,aulnay sous bois,oui,franchissement de signal
+06,chambery,non,franchissement de signal
+05,brest,non,talonnage d’aiguille ou bivoie
+05,technicentre tgv de lyon,non,electrisation
+06,avallon,oui,dépassement de vitesse supérieur à 40km/h
+06,saincaize,non,déraillement sans engagement de la voie principale
+06,valenton,non,erreur de procédure
+06,villeneuve saint georges,oui,dérangement des installations de sécurité
+06,creil,non,réception intempestive sur voie occupée
+07,toulon,oui,erreur de procédure
+06,nice,non,collision avec enfoncement de heurtoir
+07,bourg en bresse,oui,incendie dans un train
+06,saint denis,non,quasi accident de travail
+06,puy imbert,non,collision entre trains ou éléments de trains
+02,roissy,oui,porte ouverte en ligne
+03,st christophe,oui,réception intempestive sur voie occupée
+02,cadaujac,oui,erreur de procédure
+03,genelard,oui,franchissement de signal
+03,thesee,oui,incendie dans un train
+01,strasbourg gare basse,non,collision par prise en écharpe
+03,villefranque,oui,erreur de procédure
+02,paris st lazare,oui,porte ouverte en ligne
+07,vauvert,oui,réception intempestive sur voie occupée
+08,mitry claye,non,réception intempestive sur voie occupée
+09,entre nantes et saveney,oui,erreur de procédure
+08,villeneuve st georges,oui,incendie dans un train
+09,maison alfort,oui,porte ouverte en ligne
+09,entre sable et le mans,oui,défaut ayant conduit à un risque grave
+08,chambery,non,accident de personne
+07,collioure elne,non,désordre d'ouvrage en terre
+08,techicentre tgv de lyon,non,electrisation
+06,entre arches et docelles,non,erreur de procédure
+11,aulnay sous bois,oui,franchissement de signal
+09,mortcerf,oui,franchissement de signal
+10,colomiers,oui,franchissement de signal
+11,lannemezan,oui,collision
+10,arras,oui,insuffisance de freinage
+11,laroche migenne,oui,dégagement de fumée sur matériel roulant
+10,paris montparnasse,oui,dégagement intempestif du domaine fermé
+11,technicentre de venissieux,non,collision par prise en écharpe
+09,bueil,oui,erreur de procédure
+10,hendaye,oui,défaut géométrie voie
+01,saint hilaire de lusignan,oui,défaut ayant conduit à un risque grave
+11,condat le landin,oui,engagement intempestif d’une circulation sur une voie protégée
+12,l'estaque,oui,incident caténaire
+01,pyrimont,oui,intempéries
+12,moissac,oui,porte ouverte en ligne
+01,severac le château,oui,collision contre obstacle
+12,le creusot,oui,désordre d’ouvrage en terre
+11,teting,oui,non conformité du matériel roulant
+11,paris saint lazare,oui,dérive
+12,armentieres,oui,défaut géométrie voie
+04,entre jaunay et dissay,oui,incident grave
+04,zone de chantier de dissay entre jaunay et dissay,non,incident grave
+04,paris gare de lyon,non,accident de voyageur
+04,entre gramat et figeac,non,défaillance d'ouvrage
+04,narbonne,non,accident de voyageur
+04,infrapôle languedoc-roussilon,non,electrisation
+04,saint germain des fosses,non,non conformité du matériel roulant
+04,mulhouse,oui,départ sans autorisation
+04,saujon,non,accident du travail
+04,delle,non,défaillance d'ouvrage
+05,montjovis,oui,sortie intempestive ou engagement d’un domaine fermé
+05,pau-nouvelle aquitaine,oui,franchissement de signal
+04,paris est,oui,franchissement de signal
+04,marseille blancardde,oui,départ sans autorisation
+03,paris est,oui,défaillance voie
+04,lyon,oui,porte ouverte en ligne
+04,technicentre paris sud est,oui,mouvement en sens inverse du sens normal
+05,conflans,non,engagement intempestif d’une circulation sur une voie protégée
+04,amiens,non,collision avec enfoncement de heurtoir
+05,vendenheim,non,sortie intempestive ou engagement d’un domaine fermé
+04,saint-claude,non,talonnage d’aiguille ou bivoie
+05,sibelin,non,franchissement de signal
+04,paris saint lazare,oui,non conformité du matériel roulant
+05,picon busserine,non,dérive
+07,nogent le rotrou,oui,franchissement de signal
+07,saint florentin,oui,franchissement de signal
+06,saint jean-de-maurienne,oui,déraillement
+06,sens,non,franchissement de signal
+07,technicentre est-europeen,non,collision entre trains ou éléments de trains
+07,valenton,non,accident du travail
+06,puy imbert,non,collision entre trains ou éléments de trains
+06,gevrey,non,franchissement de signal
+06,infrapôle de pn,non,electrisation
+06,limoges,non,collision entre trains ou éléments de trains
+08,versailles,oui,erreur de procédure
+08,armentieres,non,engagement intempestif d’une circulation sur une voie protégée
+08,paris-est,oui,franchissement de signal
+08,trois-puits,non,franchissement de signal
+08,saales,non,déraillement
+07,sermaise,non,quasi accident de travail
+08,mulhouse-nord,oui,incident de marchandise dangereuse
+08,pierre buffiere,oui,erreur de procédure
+08,technicentre sud-est européen,non,electrisation
+08,paris-est,oui,porte ouverte en ligne
+06,hourcadie,oui,pénétration intempestive sur domaine fermé
+05,amberieu,non,appareil de voie mal disposé
+06,villeneuve triage,non,erreur d’itinéraire
+06,paris-est,non,dérive
+05,lorraine louvigny bv,non,perte d’organe du matériel roulant
+05,entre sens et pont sur yonne,oui,dépassement de vitesse supérieur à 40km/h
+05,dijon,non,réception intempestive sur voie occupée
+06,portes,non,déraillement
+06,entre montereau et st florentin,non,accident du travail
+06,technicentre de lyon,non,electrisation
+11,paris bercy,non,collision par prise en écharpe
+11,nemours,oui,erreur de procédure
+11,breaute,non,franchissement de signal
+11,tgv sud est,oui,dépassement de vitesse supérieur à 40km/h
+11,reugny,oui,défaut géométrie voie
+11,bibliotheque francois mitterand,oui,collision
+11,bayonne,non,collision contre obstacle
+11,technicentre est europeen,non,accident du travail
+11,entre pont l'eveque et trouville deauville,oui,déraillement
+10,infralog centre,non,accident du travail
+05,entre anizy pinon et laon,non,défaillance voie
+05,lyon,oui,dérive
+05,lille - bif des sourds et muets,non,dégagement intempestif du domaine fermé
+04,cherbourg,oui,franchissement de signal
+05,mommenheim,non,avarie matériel roulant
+05,grande opération programmée de mulhouse,non,accident du travail
+05,neuf-brisach,non,talonnage d’aiguille ou bivoie
+05,paris nord,oui,dérangement des installations de sécurité
+05,aspres sur buech,non,acte de malveillance
+04,miramas,non,déraillement
+08,vaires sur marnes,non,franchissement de signal
+10,amagne,oui,déraillement
+09,lyon part dieu,oui,erreur de procédure
+09,champagney,oui,raté de fermeture à un passage à niveau
+10,technicentre atlantique,non,collision entre trains ou éléments de trains
+10,amiens,oui,franchissement de signal
+08,entre strasbourg et kehl,non,erreur de procédure
+10,infrapole lgv sud-est europeen,non,accident du travail
+09,technicentre romilly,non,accident du travail
+10,suge - dzs sud-ouest,non,accident du travail
+10,meyrargues,oui,raté de fermeture à un passage à niveau
+12,entre blanquefort et macau,oui,dépassement de vitesse supérieur à 40km/h
+10,saint denis,oui,erreur de procédure
+12,persan,oui,engagement intempestif d’une circulation sur une voie protégée
+08,boussens,oui,erreur de procédure
+07,sable,oui,déraillement
+06,entre rosporden et quimper,oui,erreur de procédure
+06,saumur,oui,raté de fermeture à un passage à niveau
+08,rive de gier,oui,dérive
+08,fauga,oui,erreur de procédure
+07,darsac,oui,défaillance voie
+07,macon,oui,défaillance voie
+06,montereau,oui,porte ouverte en ligne
+07,pays de la loire,oui,dépassement de vitesse supérieur à 40km/h
+01,lezignan,oui,erreur de procédure
+01,novillars,oui,dépassement de vitesse supérieur à 40km/h
+12,mirabeau,oui,erreur de procédure
+11,lapeyrouse,non,déshuntage
+11,amberieu,oui,erreur de procédure
+01,lyon scaronne,oui,talonnage d’aiguille ou bivoie
+11,golfech,oui,dépassement de vitesse supérieur à 40km/h
+01,mulhouse,oui,franchissement de signal
+12,amboise,oui,boîte chaude
+01,strasbourg,oui,non conformité du matériel roulant
+08,entre lons le saunier et orbagna,oui,erreur de procédure
+10,pere,oui,dérive
+10,massy,oui,porte ouverte en ligne
+10,saint beron,oui,raté de fermeture à un passage à niveau
+10,le rove,oui,collision contre obstacle
+08,hagonfange,oui,boîte chaude
+10,luzenac,oui,erreur de procédure
+09,versigny,oui,incendie dans un train
+09,brive,oui,défaut géométrie voie
+10,le molay littry,oui,défaillance d'ouvrage
+04,chatellerault,oui,erreur de procédure
+04,villeneuve prairie,non,départ sans autorisation
+04,entre chemille et la jumelliere,oui,dépassement de vitesse supérieur à 40km/h
+04,reims,non,talonnage d’aiguille ou bivoie
+04,emerainville-pontault-combault,non,porte ouverte en ligne
+04,gretz-armainvilliers,non,porte ouverte en ligne
+01,lgv atlantique prs 45,oui,sortie intempestive ou engagement d’un domaine fermé
+01,conflans-jarny,non,manoeuvre vers non électrifiée
+12,luçon,non,incendie dans un train
+01,duttlenhein,oui,incident grave de signalisation
+12,viescamp sous jalles,oui,déshuntage
+01,lyon brotteaux,oui,franchissement de signal
+12,entre kerhuon et le rody,non,collision contre obstacle à un passage à niveau
+01,entre les aubrais et blois,non,engagement de gabarit
+01,sainte marthe-en-provence,non,franchissement de signal
+12,cannes,nd,incendie dans un train
+12,la roche migennes,oui,déraillement
+12,romilly,non,erreur d’itinéraire
+12,aulnay sous bois,oui,erreur d’itinéraire
+12,reignac,oui,déraillement
+12,metz,oui,incident caténaire
+11,entre choisy le roi et les ardoines,oui,franchissement de signal
+12,gare de paris-batignolles,non,départ sans autorisation
+11,paris gare du nord,oui,dérive
+12,fos-graveleau,non,déraillement sans engagement de la voie principale
+11,mont de marsan,oui,dépassement de vitesse supérieur à 40km/h
+01,les mureaux,non,erreur de procédure
+02,mende,oui,déraillement
+02,bantzenheim,non,incident de marchandise dangereuse
+02,la roche des arnauds,oui,rupture d'attelage
+01,saint-florentin,non,erreur de procédure
+02,montpellier,non,franchissement de signal
+02,cros de cagnes,non,franchissement de signal
+02,paris bercy,non,réception intempestive sur voie occupée
+02,villeneuve saint georges,non,collision avec enfoncement de heurtoir
+01,montchanin,non,dérive
+03,baraqueville,oui,réception intempestive sur voie occupée
+03,villeneuve les maguelone,oui,porte ouverte en ligne
+03,entre saint ouen pl et porte de clichy,oui,dérive
+03,entre la milesse et sille le guillau,non,erreur grave de procédure
+03,mulhouse,non,circulation d’un transport exceptionnel sans annonce
+03,lacq,oui,présence d'obstacle sur voie
+03,paris saint lazare,oui,dérive
+04,lourches,non,collision avec enfoncement de heurtoir
+03,port-la-nouvelle,non,engagement de gabarit suite à désemparement de pièce
+03,gare de trappes poste 3,non,présence d'obstacle sur voie
+02,hendaye,non,talonnage d’aiguille ou bivoie
+02,la guerche sur l'aubois,non,raté de fermeture à un passage à niveau
+02,sotteville,oui,réception intempestive sur voie occupée
+03,chambourg,oui,raté de fermeture à un passage à niveau
+02,lisieux,non,départ sans autorisation
+02,lille flandres,oui,défaut géométrie voie
+03,achères,non,déraillement sans engagement de la voie principale
+02,le soler,non,collision contre obstacle à un passage à niveau
+03,entre guingamp et paimpol,oui,défaut géométrie voie
+02,caen,non,déraillement
+06,nice,oui,franchissement de signal
+05,gare d'yvetot,non,départ sans autorisation
+05,buisson,non,franchissement de signal
+05,decize,non,franchissement de signal
+06,saint pol/ternoise,oui,désordre d’ouvrage en terre
+03,entre villeneuve et roi,oui,appareil de voie mal disposé
+04,woippy,non,réception intempestive sur voie occupée
+04,aubazine saint hilaire,oui,déraillement sans engagement de la voie principale
+04,somain,non,déraillement
+04,technicentre thionville,non,collision entre trains ou éléments de trains
+03,voves,non,dégagement intempestif du domaine fermé
+04,saint jory,non,collision contre obstacle
+04,genève la plaine,non,composition non conforme
+04,entre saint-cyr et versailles-chantier,non,perte d’organe du matériel roulant
+04,chambéry,non,porte ouverte en ligne
+11,auterive,non,talonnage d’aiguille ou bivoie
+10,pasilly,oui,franchissement de signal
+10,lgva entre saint cyr prs 44 et loire prs 45,oui,incident grave de signalisation
+10,miramas,oui,franchissement de signal
+10,plateau de vouille,non,non respect du point d’arrêt
+10,la plaine stade de france,non,défaillance voie
+11,arras,oui,collision contre obstacle
+11,entre houdan et marchezais,non,collision contre obstacle à un passage à niveau
+11,nîmes,non,engagement de gabarit suite à désemparement de pièce
+11,fresnoy le grand,non,porte ouverte en ligne
+05,saint-michel notre dame et paris austerlitz,non,réalimentation intempestive des caténaires
+05,gare basse de strasbourg,non,collision avec enfoncement de heurtoir
+04,modane,oui,déraillement sans engagement de la voie principale
+04,laval,oui,dégagement de fumée sur matériel roulant
+05,gare de juvisy,non,mise en œuvre de travaux en dehors du domaine fermé
+05,brive,oui,rupture d'attelage
+04,peyraud,non,boîte chaude
+04,lyon guillotiere,oui,engagement intempestif d’une circulation sur une voie protégée
+04,clermont de l'oise,non,chute de voyageur
+05,valence,non,incident de frein
+10,lieusaint,non,réalimentation intempestive des caténaires
+10,puget-sur-argens,oui,désordre ouvrage d’art
+10,gare de saint-martin de tallevende,non,franchissement de signal
+10,paris saint-lazare,oui,franchissement de signal
+09,tours,oui,défaillance voie
+09,paris gare de lyon,non,accostage brutal
+09,quimper,non,collision contre obstacle
+09,aix-les-bains,non,collision contre obstacle à un passage à niveau
+09,monsempron,non,engagement de gabarit suite à désemparement de pièce
+09,entre bayonne et puyôo,oui,défaillance voie
+06,trappes,non,talonnage d’aiguille ou bivoie
+06,gevrey triage,nd,réception intempestive sur voie occupée
+06,technicentre villeneuve saint georges,non,collision entre trains ou éléments de trains
+06,guerigny,oui,déraillement
+08,la bastide st laurent les bains,oui,déraillement sans engagement de la voie principale
+10,entre le grand jardin et pont l’evêque,non,déshuntage
+10,fleurieux sur l’arbresle,non,franchissement de signal
+10,montrouge chatillon,non,franchissement de signal
+10,entre esbly et meaux,non,dégagement de fumée sur matériel roulant
+11,maison alfort,non,réalimentation intempestive des caténaires
+11,igny,non,accident de voyageur
+10,noisy le sec,non,défaillance voie
+10,entre la ferté million et lizy sur ourcq,oui,défaut géométrie voie
+10,chambéry,non,déraillement sans engagement de la voie principale
+11,marle sur serre,non,talonnage d’aiguille ou bivoie
+10,clisson,non,départ sans autorisation
+10,murat,non,perte d’organe du matériel roulant
+10,pagnac,non,incident grave
+10,chatelay chissey,non,déshuntage
+10,les ardoines,non,talonnage d’aiguille ou bivoie
+10,castelnaudary,non,talonnage d’aiguille ou bivoie
+10,sélestat,non,déraillement sans engagement de la voie principale
+10,poissy,non,talonnage d’aiguille ou bivoie
+10,albigny,non,déraillement sans engagement de la voie principale
+10,st cyr les lesques,oui,intempéries
+01,chasse sur rhône,oui,erreur grave de procédure
+01,allenc,oui,raté de fermeture à un passage à niveau
+01,vaires sur marne,non,réception intempestive sur voie occupée
+01,entre sète et le castellas,oui,défaillance voie
+01,miramas,non,collision entre trains ou éléments de trains
+01,dijon technicentre,non,franchissement de signal
+01,javel,non,talonnage d’aiguille ou bivoie
+01,trappes,non,incident caténaire
+12,toulouse,non,franchissement de signal
+12,marseille st charles,oui,franchissement de signal
+12,gare de paris austerlitz,non,franchissement de signal
+12,gare de paris montparnasse,non,franchissement de signal
+12,trappes,non,franchissement de signal
+12,sarrebourg,non,accident de personne
+11,entre la forest et kerhuon,oui,incendie dans un train
+12,entre auterive et saverdun,oui,dépassement de vitesse supérieur à 40km/h
+12,marseille blancarde,non,incident caténaire
+12,etampes,non,incident caténaire
+11,entre aubagne et cassis,oui,boîte chaude
+11,st martin sail les bains,oui,dépassement de vitesse supérieur à 40km/h
+11,woippy,non,réception intempestive sur voie occupée
+11,lyon vaise,non,incident caténaire
+11,batignolles,non,déraillement sans engagement de la voie principale
+11,mantes la jolie,non,réception intempestive sur voie occupée
+11,aix sur vienne,non,talonnage d’aiguille ou bivoie
+11,chalon sur saône,non,sortie intempestive ou engagement d’un domaine fermé
+11,la ferté million,oui,défaillance voie
+11,lille europe,non,franchissement de signal
+11,le tréport mers,non,départ sans autorisation
+11,meyrargues,oui,déshuntage
+11,hourcade,oui,franchissement de signal
+11,st germain au mont d’or,oui,raté de fermeture à un passage à niveau
+11,sotteville,non,réception intempestive sur voie occupée
+11,achères,non,déraillement sans engagement de la voie principale
+11,montigny les metz,non,talonnage d’aiguille ou bivoie
+11,achères,non,déraillement sans engagement de la voie principale
+11,st jory,non,talonnage d’aiguille ou bivoie
+11,le landy,non,collision entre trains ou éléments de trains
+12,entre montpellier et lyon,non,perte d’organe du matériel roulant
+12,,non,franchissement de signal
+12,baillargues,non,collision contre obstacle
+12,entre montmédy et longuyon,non,collision contre obstacle
+01,chambéry,non,déraillement sans engagement de la voie principale
+12,entre meyrargues et aix en provence,non,collision contre obstacle
+01,béziers,non,déraillement sans engagement de la voie principale
+01,epinal,non,incident caténaire
+12,armentières,non,collision contre obstacle
+01,saint nazaire,non,incident caténaire
+01,hourcade,oui,déraillement sans engagement de la voie principale
+01,entre vézénobres et mas des cabries,oui,dépassement de vitesse supérieur à 40km/h
+01,brive la gaillarde,non,point limite d’un pantographe dépassé par une circulation électrique
+01,thionville dépôt,non,déraillement sans engagement de la voie principale
+09,corbie,oui,erreur de procédure
+10,tronsanges,oui,collision contre obstacle à un passage à niveau
+09,gevrey,non,déraillement
+09,beaune,oui,dépassement de vitesse supérieur à 40km/h
+10,neufchâteau,oui,erreur de procédure
+10,cosne,oui,défaut géométrie voie
+10,cazeres sur garonne,oui,talonnage d’aiguille ou bivoie
+10,biarritz et bayonne,oui,défaut géométrie voie
+10,technicentre de paris austerlitz,non,accident du travail
+10,infrapole midi pyrennees,non,accident du travail
+01,bourg en bresse,oui,défaillance voie
+02,santeuil le perron,oui,sortie intempestive ou engagement d’un domaine fermé
+02,lerouville,oui,franchissement de signal
+12,beaune,non,incendie dans un train
+01,villeneuve les maguelonne,oui,erreur de procédure
+01,entre valence et romans,oui,talonnage d’aiguille ou bivoie
+01,paris-chapelle,oui,erreur de procédure
+12,miramas,oui,erreur de procédure
+01,juvisy,oui,collision contre obstacle
+02,ablon,oui,incendie dans un train
+07,gagny,oui,mouvement en sens inverse du sens normal
+08,sausset-les-pins,oui,réception intempestive sur voie occupée
+07,culoz,oui,franchissement de signal
+09,graffenstaden,oui,dégagement intempestif du domaine fermé
+09,carentan,oui,erreur de procédure
+07,tarare,non,incendie dans un train
+07,bayonne,oui,défaut géométrie voie
+09,saint nom la breteche,oui,pénétration intempestive sur domaine fermé
+06,montmelian,non,erreur de procédure
+05,entre paris saint-lazare et breval,oui,collision
+05,landernau,non,déraillement sans engagement de la voie principale
+06,rennes,oui,défaut géométrie voie
+06,la milesse,oui,engagement intempestif d’une circulation sur une voie protégée
+06,le cheylas,non,raté de fermeture à un passage à niveau
+06,balan,oui,raté de fermeture à un passage à niveau
+06,valenton,non,incident de marchandise dangereuse
+06,woippy,non,collision entre trains ou éléments de trains
+06,villefranche vernet-les-bains,non,talonnage d’aiguille ou bivoie
+06,entre saint cypriens et lardennes,non,acte de malveillance
+03,busigny,oui,dépassement de vitesse supérieur à 40km/h
+05,venissieux,oui,dérive
+02,le ferte milon,oui,erreur de procédure
+02,chindreux,oui,franchissement de signal
+03,bayonne,non,collision par prise en écharpe
+04,saint florent sur cher,oui,incendie dans un train
+03,chateaudun,oui,défaut géométrie voie
+02,bonnieres,oui,porte ouverte en ligne
+12,st germain des fossés,oui,collision entre trains ou éléments de trains
+12,liancourt rantigny,non,boîte chaude
+12,achères triage,non,réception intempestive sur voie occupée
+12,st pierre des corps,oui,sortie intempestive ou engagement d’un domaine fermé
+12,entre le havre et virville,non,porte ouverte en ligne
+12,achères triage,oui,défaillance voie
+12,entre sablé & avoise,non,collision contre obstacle
+12,creuzwald,non,incident de frein
+12,bollène la croisière,non,collision contre obstacle
+12,st avold,non,collision contre obstacle
+11,entre sausset les pins et carry le rouet,oui,acte de malveillance
+10,lyon guillotière,oui,franchissement de signal
+10,entre lisieux et trouville deauville,non,dépassement de vitesse supérieur à 40km/h
+11,villeneuve st george,oui,acte de malveillance
+11,entre trouville et pont l’evêque,non,collision contre obstacle à un passage à niveau
+11,port la nouvelle,non,déraillement sans engagement de la voie principale
+11,la rochelle pallice,non,déraillement sans engagement de la voie principale
+11,paris est,non,dérive
+11,vaires,oui,défaillance voie
+11,firminy,non,frein serré
+11,entre choisy et les ardoines,non,mise en œuvre de travaux en dehors du domaine fermé
+12,villeneuve st george,non,franchissement de signal
+12,montauban,oui,collision contre obstacle à un passage à niveau
+11,romans sur isère,non,circulation de véhicule non autorisée
+11,les arcs,non,départ sans autorisation
+12,nemours,non,accident de personne
+11,nogent sur seine,oui,défaillance voie
+11,st jory,non,déraillement sans engagement de la voie principale
+12,regny,non,déraillement sans engagement de la voie principale
+11,rennes,non,accident de personne
+12,montroc le planet,oui,déraillement
+12,entre portes les valence et pierrelatte,non,porte ouverte en ligne
+12,entre malaunay et maromme,non,porte ouverte en ligne
+12,allenc,oui,raté de fermeture à un passage à niveau
+01,pontoise,non,franchissement de signal
+01,marseille st charles,oui,réception intempestive sur voie occupée
+12,beaune,non,incident caténaire
+01,juvisy,non,franchissement de signal
+01,nice st roch,non,talonnage d’aiguille ou bivoie
+12,st génies de malgoirès,non,défaillance voie
+10,viescamps sous jallès,oui,déshuntage
+10,clermont ferrand,non,porte ouverte en ligne
+10,montereau,non,franchissement de signal
+10,cercottes,non,dégagement de fumée sur matériel roulant
+10,meaux,non,déraillement sans engagement de la voie principale
+10,st benoît,non,talonnage d’aiguille ou bivoie
+10,paris st lazare,non,collision avec enfoncement de heurtoir
+10,nogent sur seine,non,défaut géométrie voie
+10,lyon marchandises,non,talonnage d’aiguille ou bivoie
+10,grenoble,non,erreur d’itinéraire
+01,narbonne,non,dégagement intempestif du domaine fermé
+01,avignon technicentre,non,déraillement sans engagement de la voie principale
+01,hausbergen,non,accident de marchandise dangereuse
+02,st pierre des corps,non,déraillement sans engagement de la voie principale
+08,longueau,oui,dérangement des installations de sécurité
+08,eymoutiers-vassivière,oui,réception intempestive sur voie occupée
+08,chaponval,non,arrêt hors de quai de tout ou partie d’un train de voyageurs
+09,lyon scaronne,oui,talonnage d’aiguille ou bivoie
+09,villefranche,oui,erreur de procédure
+07,entre faulquemont et bening,non,engagement intempestif d’une circulation sur une voie protégée
+07,cannes,non,erreur de procédure
+08,givet,non,déraillement
+08,versailles chantier,non,mise en œuvre de travaux en dehors du domaine fermé
+08,magenta,non,engagement de gabarit suite à désemparement de pièce
+09,coutras,oui,erreur de procédure
+09,port de piles,oui,incendie dans un train
+09,l'hermitage morelles,oui,dépassement de vitesse supérieur à 40km/h
+10,beaurieres,oui,défaillance d'ouvrage
+10,rennes,non,porte ouverte en ligne
+09,voglans,oui,collision contre obstacle à un passage à niveau
+09,saint julien clenay,non,collision contre un obstacle à un passage à niveau
+08,bayonne peyrehorade,oui,dépassement de vitesse supérieur à 40km/h
+09,entre damiatte st paul et lavaur,non,défaillance voie
+09,haybes,non,collision contre obstacle à un passage à niveau
+03,somain,oui,déraillement
+03,conflans saint honorine,oui,erreur grave de procédure
+03,entre la roche sur yon et belleville,oui,erreur grave de procédure
+03,pantin,non,réception intempestive sur voie occupée
+03,moulins sur allier,oui,défaut géométrie voie
+02,mulhouse-nord,non,marchandises dangereuses
+03,technicentre auvergne nivernais,non,accident du travail
+05,rennes,oui,défaut géométrie voie
+07,limousin,oui,dépassement de vitesse supérieur à 40km/h
+06,grande synthe,oui,incident grave
+06,nancy,oui,franchissement de signal
+07,boves,oui,incendie dans un train
+06,entre lyon et badan,oui,erreur de procédure
+07,vitre,non,raté de fermeture à un passage à niveau
+06,clisson et cholet,oui,défaut géométrie voie
+08,trappes,oui,incendie dans un train
+05,angouleme,oui,intempéries
+10,les arcs,oui,délivrance d’un bulletin de franchissement sans vérification
+08,lgv est europeenne,oui,porte ouverte en ligne
+09,haubergen,oui,sortie intempestive ou engagement d’un domaine fermé
+10,lens,oui,sortie intempestive ou engagement d’un domaine fermé
+10,saint martory,oui,erreur de procédure
+10,saint benoit,oui,erreur de procédure
+10,saint cesaire,oui,dépassement de vitesse supérieur à 40km/h
+08,les aubrais,non,appareil de voie mal disposé
+08,gare de bordeaux st jean,non,franchissement de signal
+08,sibelin,non,sortie intempestive ou engagement d’un domaine fermé
+08,sully lgv,non,acte de malveillance
+08,entre paris austerlitz banlieue et st michel notre dame,non,déraillement sans engagement de la voie principale
+10,entre villiers neauphle et plaisir grignon,oui,collision entre trains ou éléments de trains
+10,montfort l'amaury,non,talonnage d’aiguille ou bivoie
+10,reims,non,pénétration intempestive sur domaine fermé
+10,agonac,oui,erreur de procédure
+10,creil,oui,talonnage d’aiguille ou bivoie
+10,entre beziers et narbonne,non,mise en œuvre de travaux en dehors du domaine fermé
+11,castres,oui,dérive
+10,miramas,non,collision entre trains ou éléments de trains
+10,chemille,non,erreur de procédure
+10,château-thierry,oui,défaut géométrie voie
+01,entre ruelle et angouleme,oui,erreur de procédure
+01,montpellier,oui,franchissement de signal
+02,aix-les-bains,non,circulation de véhicule non autorisée
+02,jarville,non,erreur de procédure
+01,saint-eulalie,oui,avarie matériel roulant
+02,hettange-grande,non,erreur de procédure
+02,sibelin,oui,incendie dans un train
+02,technicentre bfc,non,dérive
+02,miramas,non,matières dangereuses
+01,grezan,non,accident du travail
+06,commentry,oui,mise en œuvre de travaux en dehors du domaine fermé
+07,ris-orangis,oui,déraillement
+07,paris saint-lazare,non,départ sans autorisation
+06,parc des expositions,non,talonnage d’aiguille ou bivoie
+07,rosa parks,oui,accident de personne
+06,paris saint lazare,oui,dérive
+07,poitiers,non,erreur de procédure
+06,jussy,oui,franchissement de signal
+07,poitiers,non,erreur de procédure
+07,saint jean de maurienne,non,déraillement sans engagement de la voie principale
+10,labarthe inard,oui,dépassement de vitesse supérieur à 40km/h
+11,lille delivrance,oui,déraillement
+11,paris saint-lazare,non,erreur grave de procédure
+11,le mans,oui,engagement intempestif d’une circulation sur une voie protégée
+11,andelot,oui,déshuntage
+10,entre sete et agde,non,erreur grave de procédure
+11,dunkerque,non,dérive
+11,morbier,non,glissement de terrain
+11,amiens,oui,erreur de procédure
+11,saint-denis,non,chute de voyageur
+08,aix les bains,non,porte ouverte en ligne
+08,givors,oui,incident de frein
+08,villeneuve saint georges,non,déraillement
+08,lyon,non,erreur de procédure
+09,la calade eguilles,non,collision contre un obstacle à un passage à niveau
+08,somain,non,déraillement
+08,armentières,oui,défaillance voie
+09,chaponval,non,chute de voyageur
+08,onzain,non,arrêt hors de quai de tout ou partie d’un train de voyageurs
+08,angouleme,non,erreur de procédure
+09,veynes devolouy,oui,défaut ayant conduit à un risque grave
+09,pontoise,non,dégagement intempestif du domaine fermé
+09,saint-epvre,non,défaut géométrie voie
+10,oignies,non,collision
+09,l'ardoise,non,raté de fermeture à un passage à niveau
+09,boulouris,non,perte d’organe du matériel roulant
+09,bretigny,oui,défaut géométrie voie
+09,beauvoir,non,dépassement de vitesse supérieur à 40km/h
+10,becon les bruyeres,oui,défaut géométrie voie
+09,miramas,oui,déraillement
+03,houcarde,non,franchissement de signal
+03,annemasse,non,accident du travail
+03,nc,non,accident du travail
+03,technicentre auvergne nivernais,non,accident du travail
+03,la grave d'amblares,oui,collision
+02,saintes,oui,expédition sans ordre
+03,valence poste 2,non,erreur de procédure
+02,pontgouin,oui,incendie dans un train
+03,woippy triage,non,déraillement
+03,bordeaux,non,erreur d’itinéraire
+02,entre nuisement à luyeres,non,appareil de voie mal disposé
+03,sibelin,oui,déraillement
+02,dourdan,oui,défaut géométrie voie
+03,saint-germain-au-mont-d'or,non,accident du travail
+12,berre,oui,franchissement de signal
+11,laroche migennes,oui,franchissement de signal
+11,paris bercy,non,erreur de procédure
+12,sainte luce sur loire,oui,erreur de procédure
+04,chatillon,non,talonnage d’aiguille ou bivoie
+04,la chapelle,non,accident du travail
+04,technicentre de paris rive gauche,non,electrisation
+04,la pomme,non,point limite d’un pantographe dépassé par une circulation électrique
+02,la bastide saint laurent les bains,oui,talonnage d’aiguille ou bivoie
+05,tunnel de breval,oui,défaut géométrie voie
+02,saint medard d'eyrans,oui,non mise en protection
+05,amagne-luquy,oui,dépassement de vitesse supérieur à 40km/h
+03,bondy,oui,franchissement de signal
+03,songy,oui,déraillement
+01,paris austerlitz,oui,dérive
+03,chalons en champagne,oui,déraillement
+02,serquigny,oui,porte ouverte en ligne
+05,prouvy thians,oui,heurt au croisement
+04,solignac,oui,autorisation de franchissement sans vérification
+04,cazeres sur garonne,oui,erreur de procédure
+04,vaires sur marnes,non,sortie intempestive ou engagement d’un domaine fermé
+03,entre longueil ste marie et arsy,non,déraillement
+03,entre nimes et ales,oui,défaut ayant conduit à un risque grave
+04,toulon,non,erreur de procédure
+03,chazay marcilly,non,frein serré
+04,queyvrac,non,collision
+04,thiviers,non,franchissement de signal
+04,sens,non,accident du travail
+08,toulouse raynal,non,déraillement sans engagement de la voie principale
+02,saint etienne,non,marchandises dangereuses
+02,quincieux,non,boîte chaude
+02,sotteville,non,déraillement sans engagement de la voie principale
+02,la plaine stade de france,oui,départ sans autorisation
+02,stpéray,oui,raté de fermeture à un passage à niveau
+02,entre villennes sur seine et poissy,non,boîte chaude
+02,nevers,non,déraillement sans engagement de la voie principale
+02,bordeaux,non,franchissement de signal
+02,st-saulve valenciennes,non,talonnage d’aiguille ou bivoie
+03,la rochelle pallice,oui,franchissement de signal
+03,hourcade,non,franchissement de signal
+03,st-etienne-bellevue,non,franchissement de signal
+03,strasbourg,oui,incident grave de signalisation
+03,magneux-courlandon,oui,dérive
+03,trappes,non,réception intempestive sur voie occupée
+03,hagondange,non,réception intempestive sur voie occupée
+03,entre montauban et toulouse,non,porte ouverte en ligne
+03,beaune,non,réception intempestive sur voie occupée
+02,entre rai-aube pl et  l’aigle pl,oui,dvl
+02,entre rai-aube pl et l'aigle pl,oui,dvl
+02,lille délivrance,non,déraillement sans engagement de la voie principale
+02,toul,non,délivrance d’un bulletin de franchissement sans vérification
+02,lestrem,non,franchissement de signal
+02,woippy,non,réception intempestive sur voie occupée
+02,argenteuil,non,déraillement sans engagement de la voie principale
+02,vaires,non,talonnage d’aiguille ou bivoie
+02,st denis près martel,non,talonnage d’aiguille ou bivoie
+01,casino lacroix laval,non,perte d’organe du matériel roulant
+03,noveant,oui,autorisation de franchissement sans vérification
+03,sibelin,non,matières dangereuses
+03,villeneuve triage,non,franchissement de signal
+03,chateaudun,non,déraillement sans engagement de la voie principale
+03,dannes,oui,défaillance voie
+03,dépôt de chalindrey,non,dérive
+03,connéré beillé,non,départ sans autorisation
+03,gray,non,talonnage d’aiguille ou bivoie
+03,nantes blottereau,non,déraillement
+04,belfort,oui,mouvement en sens inverse du sens normal
+04,montmoreau tunnel du livernan,oui,heurt au croisement
+04,besançon-viotte,non,franchissement de signal
+04,ruelle,non,incendie dans un train
+04,vénissieux,non,déraillement sans engagement de la voie principale
+04,lyon vaise,non,déraillement sans engagement de la voie principale
+04,gare d'alençon,non,défaillance voie
+04,bourron marlotte,non,accident de personne
+04,gare de pont cardinet,non,départ sans autorisation
+04,langeac,oui,déraillement sans engagement de la voie principale
+04,entre castillon la bataille et st emilion,oui,raté de fermeture à un passage à niveau
+04,magenta (paris est),non,incident caténaire
+04,lens,non,collision entre trains ou éléments de trains
+04,sibelin,non,réception intempestive sur voie occupée
+04,pont cardinet,non,déraillement sans engagement de la voie principale
+04,riom,oui,raté de fermeture à un passage à niveau
+04,tarbes,non,déraillement sans engagement de la voie principale
+07,raccordement rouen martainville,oui,raté de fermeture à un passage à niveau
+08,lunel,oui,incendie dans un train
+08,sens,non,déraillement sans engagement de la voie principale
+07,pierrefitte,oui,porte ouverte en ligne
+07,entre massy tgv et paris-montparnasse,oui,porte ouverte en ligne
+08,saint-gervais,non,déraillement sans engagement de la voie principale
+08,sainte-bazeille,non,collision contre obstacle à un passage à niveau
+07,monts,non,avarie au matériel
+07,beuvraignes,non,perte d’organe du matériel roulant
+08,rosny bois perrier,non,défaillance voie
+07,entre pontoise et boissy l'aillerie,non,circulation de véhicule non autorisée
+07,creil,oui,franchissement de signal
+06,entre le havre et rouen rive droite,oui,dépassement de vitesse supérieur à 40km/h
+07,stade de france,oui,défaillance voie
+07,narbonne,oui,franchissement de signal
+07,bram,non,défaillance matériel
+07,evreux,non,porte ouverte en ligne
+07,gare d'achères triage,non,déraillement
+07,besancon viotte,non,défaillance voie
+06,uckange,non,incident caténaire
+05,entre piolenc et roquemaure,non,sortie intempestive ou engagement d’un domaine fermé
+09,béthune,non,sortie intempestive ou engagement d’un domaine fermé
+09,lyon vaise,non,franchissement de signal
+09,chambéry,non,franchissement de signal
+09,rennes,non,franchissement de signal
+08,sibelin,non,réception intempestive sur voie occupée
+09,marseille st charles,non,réception intempestive sur voie occupée
+08,entre veauche et montrond les bains,oui,dépassement de vitesse supérieur à 40km/h
+09,entre landébia et lamballe,oui,collision contre obstacle à un passage à niveau
+08,montluçon,non,incendie dans un train
+09,vaires torcy,oui,défaillance voie
+09,miramas,non,franchissement de signal
+09,pont cardinet,non,non respect du point d’arrêt
+09,entre paris austerlitz et bibliothèque,non,porte ouverte en ligne
+09,lyon perrache,non,franchissement de signal
+09,chalons en champagne,non,franchissement de signal
+09,paris montparnasse,oui,accident du travail
+09,limoges,non,collision entre trains ou éléments de trains
+09,aulnay sous bois,non,franchissement de signal
+09,st germain au mont d’or,non,déraillement sans engagement de la voie principale
+09,woippy triage,non,déraillement sans engagement de la voie principale
+10,marseille arenc,non,acte de malveillance
+10,clermont ferrand,oui,franchissement de signal
+10,entre montchanin et chagny,oui,incident grave de signalisation
+10,strasbourg,non,talonnage d’aiguille ou bivoie
+10,châtel nomexy,oui,accident de personne
+10,montpellier,non,réception intempestive sur voie occupée
+10,avignon fontcouverte,non,déraillement sans engagement de la voie principale
+10,thionville,non,talonnage d’aiguille ou bivoie
+10,hourcade,non,déraillement sans engagement de la voie principale
+10,chambéry,non,franchissement de signal
+09,st germain au mont d’or,non,collision contre obstacle
+09,petit thérain,non,déraillement sans engagement de la voie principale
+10,paris st lazare,non,collision avec enfoncement de heurtoir
+10,paris batignolles,non,point limite d’un pantographe dépassé par une circulation électrique
+10,lagny thorigny,non,collision contre obstacle
+10,rennes,non,franchissement de signal
+10,entre pantin et noisy le sec,oui,défaillance voie
+10,petit thérain,non,talonnage d’aiguille ou bivoie
+10,st pierre des corps,non,déraillement sans engagement de la voie principale
+09,bois colombes,non,collision contre obstacle
+10,les aubrais,non,engagement intempestif d’une circulation sous caténaire consignée
+10,st denis,non,franchissement de signal
+10,lannemezan,non,collision contre obstacle à un passage à niveau
+10,laon,non,déraillement sans engagement de la voie principale
+10,paris st lazare,non,départ sans autorisation
+11,miramas,non,collision entre trains ou éléments de trains
+10,les tines,non,défaillance voie
+11,volvic,non,perte d’organe du matériel roulant
+11,le havre,non,talonnage d’aiguille ou bivoie
+11,yvetot,non,dérive
+12,dijon ville,oui,déraillement
+12,gallargues,non,collision contre obstacle
+12,entre maromme et malaunay,non,porte ouverte en ligne
+12,st etienne carnot,non,franchissement de signal
+12,laval,non,accident de personne
+12,entre la forest et kerhuon,oui,collision contre obstacle à un passage à niveau
+12,loos en gohelle,non,accident de personne
+12,bordeaux st jean,non,déraillement sans engagement de la voie principale
+12,miramas,non,collision entre trains ou éléments de trains
+12,modane,non,incident caténaire
+01,trappes,non,point limite d’un pantographe dépassé par une circulation électrique
+01,batignolles,non,franchissement de signal
+01,nuits st georges,non,incident caténaire
+01,lens dépôt,non,collision par prise en écharpe
+08,toulouse raynal,non,franchissement de signal
+08,goussainville,non,engagement intempestif d’une circulation sur une voie protégée
+08,corbeil essonnes,non,départ sans autorisation
+08,lyon,non,franchissement de signal
+08,maisons alfort alfortville,non,sortie intempestive ou engagement d’un domaine fermé
+08,colayrac,non,erreur de procédure
+08,brives la gaillarde,oui,franchissement de signal
+08,etampes,non,franchissement de signal
+08,clermont ferrand,non,déraillement sans engagement de la voie principale
+08,culoz,non,déraillement sans engagement de la voie principale
+12,tende,oui,franchissement de signal
+12,gare de champagne,non,défaillance voie
+12,gare de paris st lazare,oui,dérive
+12,vestric,non,incident caténaire
+12,bordeaux technicentre,non,déraillement sans engagement de la voie principale
+12,lyon brotteaux,non,incident caténaire
+12,le pouzin,non,collision contre obstacle à un passage à niveau
+12,lussac les chateaux,non,collision contre obstacle
+12,vénissieux,non,déraillement sans engagement de la voie principale
+12,lyon part dieu,non,talonnage d’aiguille ou bivoie
+12,tourcoing,non,composition non conforme
+12,brive,non,déraillement sans engagement de la voie principale
+12,strasbourg,oui,arrêt hors de quai de tout ou partie d’un train de voyageurs
+12,hourcade,non,réception intempestive sur voie occupée
+12,entre avoise pl et noyen pl,non,collision contre obstacle
+12,perpignan,non,déraillement sans engagement de la voie principale
+12,st etienne chateaucreux,non,déraillement sans engagement de la voie principale
+01,rennes,non,déraillement sans engagement de la voie principale
+12,laifour,non,collision contre obstacle
+12,saintes,non,collision contre obstacle
+11,entre paris st lazare et valognes,non,composition non conforme
+11,bourget triage,non,collision entre trains ou éléments de trains
+11,quimper,non,déshuntage
+11,noisy faisceau banlieue,non,franchissement de signal
+11,aramons,non,perte d’organe du matériel roulant
+11,le plant champigny,oui,acte de malveillance
+08,tours,non,accident du travail
+07,miramas,non,défaut ayant conduit à un risque grave
+06,angerville,oui,erreur de procédure
+06,cavaillon,non,mise en œuvre de travaux en dehors du domaine fermé
+06,lyon,non,départ sans autorisation
+06,neuvy sur loire,non,engagement intempestif d’une circulation sur une voie protégée
+06,bettembourg,oui,dépassement de vitesse supérieur à 40km/h
+06,claye-souilly,non,incident de frein
+06,marseille,non,franchissement de signal
+06,hendaye,non,déraillement
+06,hendaye,non,incident caténaire
+06,paris-rive-gauche,non,accident du travail
+05,rixheim,non,erreur de procédure
+05,allibaudieres,oui,déraillement
+05,buzy en bearn,oui,incendie dans un train
+05,biot,oui,erreur de procédure
+05,vierzon,non,engagement intempestif d’une circulation sur une voie protégée
+05,gevrey,non,talonnage d’aiguille ou bivoie
+05,saint germain la montagne,oui,porte ouverte en ligne
+05,ecully la demi lune,non,franchissement de signal
+05,la rochelle,non,collision contre un obstacle à un passage à niveau
+05,saint jory,non,incident caténaire
+07,limousin,oui,dépassement de vitesse supérieur à 40km/h
+07,provence alpes cote d'azure,oui,dégagement de fumée sur matériel roulant
+06,perigneux,oui,déraillement
+07,ailly sur noye,oui,erreur de procédure
+08,perpignan,oui,autorisation de franchissement sans vérification
+11,paris saint lazare,non,réception intempestive sur voie occupée
+11,etival clairefontaine,oui,erreur de procédure
+11,orleans,oui,talonnage d’aiguille ou bivoie
+11,entre tarare et roanne,non,erreur de procédure
+12,bonnieres,oui,porte ouverte en ligne
+11,tours,oui,défaut géométrie voie
+11,infrapole rhodanien,non,accident du travail
+12,briancon,oui,déraillement
+11,murat,oui,dépassement de vitesse supérieur à 40km/h
+11,nancy,oui,non conformité du matériel roulant
+06,entre bourg en bresse et bellegarde,oui,dérive
+05,paris bercy,oui,erreur de procédure
+06,rountzenheim,oui,raté de fermeture à un passage à niveau
+04,port la nouvelle,oui,dérive
+04,loison sous lens,oui,défaillance voie
+06,entre evreux et brueil,oui,intempéries
+06,la bridoire,oui,intempéries
+05,la roche sur yon,oui,défaut géométrie voie
+06,estivaux,oui,intempéries
+05,entre clion et pons,oui,intempéries
+04,miribel,non,dégagement intempestif du domaine fermé
+04,vichy,oui,mise en œuvre de travaux en dehors du domaine fermé
+05,arles,non,dérive
+04,nimes,non,déraillement
+04,chambery,non,incident caténaire
+04,thervay,non,collision
+04,saint roch,non,perte d’organe du matériel roulant
+04,entre roquefort et mont de marsan,oui,déraillement
+04,bussurelle,non,electrisation
+04,narbonne,non,matières dangereuses
+09,limoges,oui,raté de fermeture à un passage à niveau
+08,sotteville,oui,erreur de procédure
+10,amberieu,oui,collision
+08,entre compiegne et remy,oui,erreur de procédure
+10,la bastide saint laurent,oui,talonnage d’aiguille ou bivoie
+10,bois colombes,oui,franchissement de signal
+10,la gouesnière cancale,oui,incendie dans un train
+09,tourcoing,non,réception intempestive sur voie occupée
+10,entre monterolier et motteville,oui,défaillance voie
+09,lerouville,non,déraillement sans engagement de la voie principale
+09,mouchard,non,franchissement de signal
+09,la roche sur yon,non,défaillance voie
+09,petit thérain,non,déraillement sans engagement de la voie principale
+09,ruffec,non,déraillement sans engagement de la voie principale
+09,woippy,non,déraillement sans engagement de la voie principale
+08,ambérieu,non,franchissement de signal
+08,trappes,non,réception intempestive sur voie occupée
+08,brétigny,oui,défaillance voie
+08,entre veauche et montrond les bains,oui,dépassement de vitesse supérieur à 40km/h
+09,pont à vendin,non,déraillement sans engagement de la voie principale
+08,avignon fontcouverte,non,déraillement sans engagement de la voie principale
+09,sibelin,non,déraillement sans engagement de la voie principale
+08,béziers capiscol,non,appareil de voie mal disposé
+09,le mans dépôt,non,déraillement sans engagement de la voie principale
+08,st andré le gaz,non,dégagement de fumée sur matériel roulant
+10,fos viguerat,non,sortie intempestive ou engagement d’un domaine fermé
+10,bourg en bresse,non,réception intempestive sur voie occupée
+10,blanc mesnil,oui,déraillement sans engagement de la voie principale
+10,coolus,non,talonnage d’aiguille ou bivoie
+10,st priest,oui,franchissement de signal
+10,uckange,non,talonnage d’aiguille ou bivoie
+10,lille délivrance,non,déraillement sans engagement de la voie principale
+10,lyon part dieu,non,défaillance voie
+01,jouy,oui,expédition sans ordre
+01,entre grand combe-la pise et alès,non,défaillance voie
+01,tarare,non,dégagement intempestif du domaine fermé
+01,dannes camiers,non,dérive
+01,avignon,non,franchissement de signal
+01,lille délivrance,non,réception intempestive sur voie occupée
+01,savenay,oui,défaillance voie
+01,st maixent,non,franchissement de signal
+07,lens,oui,franchissement de signal
+06,entre puyoo et le tunnel de habbas,non,erreur de procédure
+03,dunkerque,non,quasi accident de travail
+07,blainville,non,dérangement des installations de sécurité
+07,creil,oui,reception sur voie non équipée
+07,calais,oui,engagement intempestif d’une circulation sur une voie protégée
+07,montanay,non,présence de voyageurs sur voie
+07,verberie,non,mise en œuvre de travaux en dehors du domaine fermé
+07,joué les tours,non,raté de fermeture à un passage à niveau
+07,langon,oui,porte ouverte en ligne
+06,villiers sur marne,oui,franchissement de signal
+07,périgueux,non,engagement de gabarit suite à désemparement de pièce
+07,lyon saint-exupery,non,départ sans autorisation
+01,arches,non,erreur de procédure
+01,entre mormant et nangis,oui,erreur de procédure
+01,hausbergen,non,erreur de procédure
+01,docelles,non,collision contre un obstacle à un passage à niveau
+01,vaise,non,accident du travail
+01,albertville,non,talonnage d’aiguille ou bivoie
+01,ourcq,non,talonnage d’aiguille ou bivoie
+02,bourg saint maurice,non,collision avec enfoncement de heurtoir
+01,tranchee est du tunnel de puy-richard,non,accident du travail
+02,nimes,non,erreur de procédure
+07,blainville,non,talonnage d’aiguille ou bivoie
+06,thionville,non,accident de marchandise dangereuse
+06,entre la suze et voivres,non,collision entre trains ou éléments de trains
+06,prs 31 plessis,non,franchissement de signal
+06,saincaze,oui,perte d’organe du matériel roulant
+06,aix les bains,oui,arrêt hors de quai de tout ou partie d’un train de voyageurs
+06,les vallees,oui,dérive
+06,entre pontgouin et courville,non,engagement de gabarit suite à désemparement de pièce
+06,au pas des lanciers,non,accident de marchandise dangereuse
+06,frontignan,non,dégagement de fumée sur matériel roulant
+10,jarville,non,erreur de procédure
+10,venissieux,non,talonnage d’aiguille ou bivoie
+11,entre trementines et cholet,oui,franchissement de signal
+10,entre belleville vendee et l'hebergement,oui,dépassement de vitesse supérieur à 40km/h
+11,chars,oui,franchissement de signal
+10,metz-ville,non,pénétration intempestive sur domaine fermé
+11,maranville,oui,dépassement de vitesse supérieur à 40km/h
+10,vitry le francois,non,porte ouverte en ligne
+10,chambery,non,déraillement
+11,thionville,oui,défaut géométrie voie
+01,chapeauroux,oui,erreur grave de procédure
+12,perrigny,non,déraillement
+12,ivry sur seine,non,erreur de procédure
+12,saint ouen l'aumone - bif de liesse,oui,incident caténaire
+12,belleville,non,acte de malveillance
+12,lyon part dieu,non,départ sans autorisation
+01,bordeaux,oui,déraillement
+12,entre les quatre routes et turenne,non,collision contre obstacle à un passage à niveau
+12,bretigny,non,expédition sans ordre
+12,bordeaux,non,perte d’organe du matériel roulant
+10,peltre,non,défaut géométrie voie
+10,beziers,oui,erreur grave de procédure
+10,macon,non,collision avec enfoncement de heurtoir
+10,musee d'orsay,non,pénétration intempestive sur domaine fermé
+10,sarcelles saint-brice,oui,erreur de procédure
+10,entre sainte gauburge et le merlerault,oui,dépassement de vitesse supérieur à 40km/h
+10,choisy le roi,non,défaut géométrie voie
+10,ostricourt,non,raté de fermeture à un passage à niveau
+10,aiffres,non,collision contre obstacle à un passage à niveau
+10,thionville,non,collision
+11,entre saint-pierre du vauvray et val de rueil,oui,erreur de procédure
+11,perigueux,non,expédition sans ordre
+11,lavaur,non,collision contre un obstacle à un passage à niveau
+11,pierrelaye,oui,erreur de procédure
+11,poitiers,non,collision entre trains ou éléments de trains
+11,saint mauriens,non,déraillement sans engagement de la voie principale
+12,ychoux,non,perte d’organe du matériel roulant
+11,entre le petit therain et saint-leu d'esserent,oui,défaut géométrie voie
+11,marseille,oui,dégagement de fumée sur matériel roulant
+12,paris nord,non,défaillance voie
+03,le fauga,oui,dépassement de vitesse supérieur à 40km/h
+07,gare de courtalain,oui,sortie intempestive ou engagement d’un domaine fermé
+07,sibelin,oui,incident de marchandise dangereuse
+07,vert galant,oui,incendie dans un train
+07,lyon vaise,oui,défaillance voie
+07,gare saint lazare,non,incident grave
+07,nîmes,oui,défaillance voie
+07,entre achères ville et eragny neuville,non,incident grave de signalisation
+07,hourcade,non,collision entre trains ou éléments de trains
+07,rochy-condé,non,défaut géométrie voie
+07,vigneux-sur-seine,oui,incendie dans un train
+05,claveyson,non,erreur grave de procédure
+05,le treport-mers-les-bains,oui,accostage brutal
+05,pantin,non,franchissement de signal
+04,villeneuve saint georges triage,non,départ sans autorisation
+05,neudorf,non,
+05,achére triage - dépôt,non,déraillement sans engagement de la voie principale
+05,strasbourg gare haute,non,déraillement sans engagement de la voie principale
+05,entre redessant et manduel,non,collision contre obstacle
+04,entre fos coussoul et lavalduc,oui,défaillance voie
+05,strasbourg,non,perte d’organe du matériel roulant
+06,clermont-ferrand,non,talonnage d’aiguille ou bivoie
+05,le petit therain,non,déraillement sans engagement de la voie principale
+06,pasilly,oui,dépassement de vitesse supérieur à 40km/h
+06,la mothe achard,non,talonnage d’aiguille ou bivoie
+05,perigueux,non,collision entre trains ou éléments de trains
+06,colomiers,non,déshuntage
+05,miramas,oui,mise en œuvre de travaux en dehors du domaine fermé
+06,chambéry,non,perte d’organe du matériel roulant
+12,saint saviol,non,mise en œuvre de travaux en dehors du domaine fermé
+12,clermont-ferrand,non,franchissement de signal
+12,zoufftgen (luxembourg),non,expédition sans ordre
+11,monferran,non,collision contre un obstacle à un passage à niveau
+11,technicentre bretagne,non,perte d’organe du matériel roulant
+11,bordeaux,oui,défaut géométrie voie
+12,calais frethun,non,dégagement intempestif du domaine fermé
+12,entre cagnes sur mer et antibes,oui,franchissement de signal
+01,gare de tarppes,non,franchissement de signal
+12,saint-denis,non,déraillement
+01,strasbourg,oui,porte ouverte en ligne
+01,salses,non,marchandises dangereuses
+01,strasbourg,non,erreur de procédure
+01,strasbourg,non,heurt au croisement
+12,aulnay sous bois,oui,incident caténaire
+12,bretigny,non,expédition sans ordre
+03,bretigny poste a,non,engagement intempestif d’une circulation sur une voie protégée
+03,nc,non,electrisation
+03,site de maintenance et de remisage de versailles chantiers,non,quasi accident de travail
+03,tunnel du col de braus,non,défaillance voie
+03,erstein,non,avarie matériel roulant
+04,portet saint simon,oui,défaillance voie
+04,lattes,non,mise en œuvre de travaux en dehors du domaine fermé
+04,coursan,non,erreur d’itinéraire
+04,mâcon,non,défaillance voie
+04,châlons-en-champagne,non,franchissement de signal
+04,entre aiguebelle et chamousset,oui,mise en œuvre de travaux en dehors du domaine fermé
+04,latour de carol,non,talonnage d’aiguille ou bivoie
+04,gare de chartres,non,expédition sans ordre
+04,marans,oui,délivrance d’un bulletin de franchissement sans vérification
+04,bordeaux,non,erreur de procédure
+02,aix sur vienne,oui,raté de fermeture à un passage à niveau
+03,nogent le perreux,oui,non mise en protection
+03,nancy,oui,franchissement de signal
+03,entre lamure et lozanne,oui,non mise en protection
+02,aulnay sous bois,non,circulation sans autorisation
+03,saint florentin,oui,déraillement
+03,amiens,non,talonnage d’aiguille ou bivoie
+03,achères,non,franchissement de signal
+03,chelles,non,acte de malveillance
+03,saint pol en ternoise,oui,défaut géométrie voie
+01,beuveille,oui,collision contre obstacle à un passage à niveau
+01,toulon,oui,collision contre obstacle
+12,les aubrais,oui,franchissement de signal
+01,lgva dollon,non,engagement intempestif d’une circulation sur une voie protégée
+12,sibelin,non,incident de marchandise dangereuse
+01,saverne,non,collision contre obstacle
+01,langeac,non,déraillement sans engagement de la voie principale
+01,aulnoye - aymeries,non,déraillement sans engagement de la voie principale
+01,paris saint lazare,non,erreur de procédure
+12,pantin,oui,défaillance voie
+02,montrejean,oui,engagement intempestif d’une circulation sur une voie protégée
+02,entre coueron et la basse indre saint-herblain,oui,expédition sans ordre
+01,monts,oui,incendie dans un train
+01,paris gare de lyon,oui,incident grave de signalisation
+02,roscoff,oui,incident grave de signalisation
+02,angoulème,oui,défaut géométrie voie
+02,saint saviol,non,défaillance voie
+02,richwiller,non,collision contre obstacle
+02,saint junien,non,collision contre obstacle à un passage à niveau
+02,entre issoire et clermont-ferrand,oui,dépassement de vitesse supérieur à 40km/h
+10,sainte pazanne,oui,déraillement
+10,entre paris saint-michel n.d et paris musée d'orsay,oui,porte ouverte en ligne
+10,esman,oui,collision contre obstacle à un passage à niveau
+10,entre sète et le castellas,oui,délivrance d’un bulletin de franchissement sans vérification
+10,entre trêves burel et givors ville,non,raté de fermeture à un passage à niveau
+10,brebieres,non,collision contre obstacle à un passage à niveau
+10,somain,oui,déraillement
+09,saint pierre des corps,non,défaillance voie
+09,cambrai,oui,défaillance voie
+10,bassens,oui,défaillance voie
+05,laroche migennes,oui,franchissement de signal
+05,ambérieu,oui,franchissement de signal
+05,muret,non,erreur de procédure
+05,sathonay,non,acte de malveillance
+06,leffrinckoucke,non,raté de fermeture à un passage à niveau
+01,le croisic,oui,autorisation de franchissement sans vérification
+12,rosporden,oui,déraillement
+12,entre neau et montsurs,oui,raté de fermeture à un passage à niveau
+12,busseau,oui,déshuntage
+12,saulxures,oui,collision contre obstacle
+11,gare de l'estaque,oui,défaillance voie
+11,gare de paris montparnasse,non,expédition sans ordre
+12,martres sur morges,non,collision contre obstacle à un passage à niveau
+12,gare de sartrouville,non,mise en œuvre de travaux en dehors du domaine fermé
+12,saintes,non,déraillement sans engagement de la voie principale
+11,gare de paris austerlitz - massena,non,franchissement de signal
+11,reigner,non,défaillance voie
+11,blaisy-bas,non,collision contre obstacle
+11,millau,oui,incident grave de signalisation
+10,saint romain le puy,non,collision entre trains ou éléments de trains
+11,plaisir grignon,non,défaillance voie
+10,paris est,non,engagement de gabarit suite à désemparement de pièce
+11,entre strasbourg et selestat,non,porte ouverte en ligne
+10,pontchateau,oui,défaillance voie
+11,paris gare de lyon,oui,incendie dans un train
+05,melun,non,erreur de procédure
+05,morteau,non,collision contre obstacle
+05,montrouge,non,talonnage d’aiguille ou bivoie
+04,entre saint-laurent gainneville et harfleur,oui,expédition sans ordre
+05,sibelin,non,déraillement sans engagement de la voie principale
+04,pierrelatte,non,incendie dans un train
+05,rumilly,oui,désordre d’ouvrage en terre
+05,entre  km 155+600 et le luc,oui,dépassement de vitesse supérieur à 40km/h
+05,entre bolbec n. pl et bréauté b,non,déraillement sans engagement de la voie principale
+05,lyon guillotière,oui,incident grave de signalisation
+05,dunkerque,non,franchissement de signal
+04,miramas,non,talonnage d’aiguille ou bivoie
+05,arras,non,electrocution
+05,entre uckange et hagondange,oui,déraillement
+05,st martin-sail-les-bains,non,talonnage d’aiguille ou bivoie
+05,puget,oui,incident grave de signalisation
+06,amiens,non,franchissement de signal
+05,le landy pleyel,non,déraillement sans engagement de la voie principale
+06,vonnas,oui,raté de fermeture à un passage à niveau
+05,chantenay,non,engagement intempestif d’une circulation sur une voie protégée
+06,saint-galmier-veauche,oui,désordre d’ouvrage d'art
+05,hesdigneul,oui,porte ouverte en ligne
+05,champagne sur oise,non,accident de personne
+09,bretigny,non,modification d'itinéraire sous un train
+08,fleurville pont de vaux,oui,porte ouverte en ligne
+08,saint-cyprien-arenes,non,franchissement de signal
+08,lens,oui,porte ouverte en ligne
+08,pantin,oui,défaillance voie
+02,entre avoise et sable,non,erreur de procédure
+02,chavonnex,oui,collision contre obstacle
+02,saint-lazare,non,départ sans autorisation
+02,betembourg,non,collision entre trains ou éléments de trains
+02,melun,non,erreur de procédure
+02,arcachon,non,franchissement de signal
+02,saint-vit,non,erreur de procédure
+02,marseille blancarde,non,incident caténaire
+02,paris gare de lyon,non,non conformité du matériel roulant
+02,paris-montparnasse,non,appareil de voie mal disposé
+11,l'isle jourdain,oui,déraillement
+11,rambouillet,oui,expédition sans ordre
+11,orly,oui,expédition sans ordre
+11,entre saumur rive droite et port boulet,oui,dépassement de vitesse supérieur à 40km/h
+12,recquignies,non,déraillement sans engagement de la voie principale
+10,sibelin,non,erreur de procédure
+11,chemin d'anthony,oui,franchissement de signal
+11,tarbes,non,déraillement
+11,auterive,oui,dépassement de vitesse supérieur à 40km/h
+11,les aubrais,oui,défaut géométrie voie
+01,entre la grave d'ambares et saint-mariens,oui,erreur grave de procédure
+01,lille,non,réalimentation intempestive des caténaires
+01,reims,oui,franchissement de signal
+01,metz sablon,non,erreur de procédure
+01,marseille,oui,franchissement de signal
+01,ychoux,non,défaut ayant conduit à un risque grave
+01,dunkerque,non,dérive
+01,herny,oui,dépassement de vitesse supérieur à 40km/h
+01,rives,non,point limite d’un pantographe dépassé par une circulation électrique
+02,la vrine,non,accident du travail
+07,saverne,non,erreur de procédure
+08,rennes,oui,franchissement de signal
+07,conches,non,circulation de véhicule non autorisée
+07,thiers,non,expédition sans ordre
+08,crouy,non,collision contre obstacle
+08,les mazes le cres,oui,collision contre obstacle
+07,uckange,non,collision avec enfoncement de heurtoir
+07,grenoble,non,déraillement sans engagement de la voie principale
+07,villeneuve tsee,non,dérive
+07,montrouge,non,erreur de procédure
+09,les flacheres,oui,incident grave de passage à niveau
+08,bon encontre,non,incident grave
+09,gevrey,non,talonnage d’aiguille ou bivoie
+09,brive,non,collision avec enfoncement de heurtoir
+08,bordeaux,non,perte d’organe du matériel roulant
+08,lyon guillotiere,non,engagement de gabarit suite à désemparement de pièce
+08,entre port brillet et le genest,non,collision contre un obstacle à un passage à niveau
+09,caen,oui,dérive
+08,paris,oui,dérive
+08,le mans,oui,défaut géométrie voie
+10,montauban,oui,collision entre trains ou éléments de trains
+09,maison laffitte,oui,déraillement
+09,paris saint-lazare,non,départ sans autorisation
+09,nimes,non,incident caténaire
+09,la calade eguilles,oui,collision contre obstacle à un passage à niveau
+10,gare du nord,oui,incendie dans un train
+10,souppes - château landon,non,collision contre obstacle à un passage à niveau
+09,juvisy,non,talonnage d’aiguille ou bivoie
+09,montereau,non,porte ouverte en ligne
+09,nimes,non,engagement de gabarit suite à désemparement de pièce
+03,gevrey triage,non,accostage brutal
+03,hendaye,non,erreur de procédure
+03,nogent le perreux,non,sortie intempestive ou engagement d’un domaine fermé
+03,farbus,non,avarie matériel roulant
+03,calais-ville,non,porte ouverte en ligne
+03,bar sur aube,oui,désordre d’ouvrage en terre
+03,ermont,non,accident du travail
+03,technicentre lorraine,non,accident du travail
+03,nc,non,accident du travail
+03,annemasse,non,accident du travail
+01,leaz,oui,collision entre trains ou éléments de trains
+12,bordeaux saint-jean,non,déraillement sans engagement de la voie principale
+12,poitiers,non,erreur de procédure
+01,lourches,non,incident grave
+12,saint-egreve,non,raté de fermeture à un passage à niveau
+12,woippy,non,collision
+11,lyon vaise,non,collision entre trains ou éléments de trains
+11,sibelin,non,collision entre trains ou éléments de trains
+11,toulouse raynal,non,départ sans autorisation
+11,st jory,oui,défaillance voie
+11,dax,oui,franchissement de signal
+11,la valbonne,non,raté de fermeture à un passage à niveau
+11,génolhac,oui,désordre d’ouvrage en terre
+11,paris gare de lyon,non,collision avec enfoncement de heurtoir
+11,entre bourmont et neufchâteau,oui,acte de malveillance
+11,woippy,non,déraillement sans engagement de la voie principale
+11,gevrey chambertin,non,déraillement sans engagement de la voie principale
+11,caen dépôt,non,déraillement sans engagement de la voie principale
+11,st fergueux,non,déraillement sans engagement de la voie principale
+11,gargan,non,franchissement de signal
+01,jarville la malgrange,non,point limite d’un pantographe dépassé par une circulation électrique
+01,boran sur oise,oui,raté de fermeture à un passage à niveau
+01,chalais,non,perte d’organe du matériel roulant
+02,malesherbes,non,engagement intempestif d’une circulation sur une voie protégée
+02,bordeaux,non,collision entre trains ou éléments de trains
+02,ludres,oui,accident de personne
+02,phalempin,non,porte ouverte en ligne
+02,laqueuille,non,non respect du point d’arrêt
+02,batignolles,non,départ sans autorisation
+02,le landy,non,accident du travail
+02,joncherolles,non,déraillement sans engagement de la voie principale
+01,asnières,non,talonnage d’aiguille ou bivoie
+02,puyoo,non,talonnage d’aiguille ou bivoie
+04,ollioules,oui,mise en œuvre de travaux en dehors du domaine fermé
+03,paris-austerlitz massena,non,nez à nez
+03,trappes,non,erreur grave de procédure
+04,pagny moselle,oui,franchissement de signal
+04,forbach,non,matières dangereuses
+03,amiens,non,déraillement sans engagement de la voie principale
+04,gare de rambouillet,non,franchissement de signal
+04,bourget triage,oui,défaillance voie
+03,entre merrey et culmont-chalindrey,oui,incident caténaire
+03,baroncourt,non,accident de personne
+02,saint denis,non,franchissement de signal
+03,notre dame de briançon,non,incident caténaire
+03,rives,oui,
+03,hourcade,non,déraillement sans engagement de la voie principale
+03,colmar,oui,ouverture par un tiers d’une porte de tgv en marche
+03,noisy le sec,non,franchissement de signal
+03,lyon saint exupéry,non,franchissement de signal
+02,chateau thierry,non,point limite d’un pantographe dépassé par une circulation électrique
+03,sibelin,oui,collision
+03,entre toulouse et auch,oui,collision contre un obstacle à un passage à niveau
+03,lyon guillotière,non,franchissement de signal
+03,lyon guillotière,non,déraillement sans engagement de la voie principale
+03,grenoble buisserate,non,marchandises dangereuses
+03,nantes,non,perte d’organe du matériel roulant
+03,bollene,non,déraillement sans engagement de la voie principale
+03,entre sotteville & bif. de darnetal,non,collision contre obstacle
+03,hellemmes,non,déraillement sans engagement de la voie principale
+03,chantier paris ourcq,non,franchissement de signal
+02,gare de paris saint lazare,oui,accident du travail
+02,bibliothèque françois mitterrand,non,porte ouverte en ligne
+02,nîmes,non,engagement de gabarit suite à désemparement de pièce
+02,sète,non,déraillement sans engagement de la voie principale
+02,aubigny au bac,oui,défaillance voie
+02,somain,non,déraillement sans engagement de la voie principale
+02,gandrange,non,talonnage d’aiguille ou bivoie
+02,valognes,non,accident de personne
+02,paris montparnasse,non,dérive
+02,lesparre,non,incident caténaire
+04,laroche migennes,oui,franchissement de signal
+04,bourg-en-bresse,oui,franchissement de signal
+04,valence tgv,oui,départ sans autorisation
+04,sibelin,non,réception intempestive sur voie occupée
+04,montlouis sur loire,non,collision contre obstacle
+04,anvers,non,franchissement de signal
+04,graveson,non,boîte chaude
+09,serqueux,oui,franchissement de signal
+08,montpellier,oui,déraillement
+08,entre cosne et la charité,oui,incident grave de signalisation
+09,saint-marcel,oui,déraillement
+09,villemonble,oui,franchissement de signal
+08,montsoult-maffliers,non,circulation de véhicule non autorisée
+09,amberieu,non,déraillement sans engagement de la voie principale
+08,fos-viguerat,oui,franchissement de signal
+08,la charité,oui,incident grave de signalisation
+09,tourcoing,non,matières dangereuses
+08,paris bercy,non,franchissement de signal
+08,massy palaiseau,non,réception intempestive sur voie occupée
+07,miramas,oui,dérive
+08,le bourget triage,non,déraillement sans engagement de la voie principale
+08,paris saint-lazare,oui,dérive
+07,villeneuve triage,non,talonnage d’aiguille ou bivoie
+07,entre monts et maillé,oui,engagement de gabarit avec collision
+08,achères,non,départ sans autorisation
+08,paris saint-lazare,oui,dérive
+08,entre mezy et condé en brie,non,défaillance voie
+06,coursan,oui,engagement intempestif d’une circulation sur une voie protégée
+06,lyon part-dieu,oui,incendie dans un train
+07,villeneuve prairie,non,déraillement sans engagement de la voie principale
+06,albigny neuville,non,incident caténaire
+07,villers en argonne,non,franchissement de signal
+06,hochfelden,non,franchissement de signal
+06,bordeaux saint-jean,non,evolution vers une voie occupée
+06,gevrey,non,déraillement
+06,entre pont-sainte-maxence et compiègne,non,porte ouverte en ligne
+06,seurre,non,déraillement sans engagement de la voie principale
+07,vaucresson,non,accident de personne
+06,brive,non,non mise en protection
+07,maisons alfort alfortville,non,porte ouverte en ligne
+06,embranchement tavaux-solvay,non,collision par prise en écharpe
+06,entre agonac et château l'eveque,non,défaut géométrie voie
+06,lyon part dieu,non,dégagement de fumée sur matériel roulant
+10,entre saint-germain au mont d'or et lozanne,oui,erreur grave de procédure
+10,thionville,non,matières dangereuses
+10,saint-jory,oui,erreur de procédure
+10,villefranche de rouergue,non,dépassement de vitesse supérieur à 40km/h
+10,guethary,oui,dépassement de vitesse supérieur à 40km/h
+10,gare de saint-martin d'etampes,non,pénétration intempestive sur domaine fermé
+10,macon,non,incident caténaire
+10,entre lerouville et metz-ville,oui,défaut géométrie voie
+10,paris montparnasse,non,erreur de procédure
+10,technicentre est europeen,non,déraillement
+07,paris bercy,non,franchissement de signal
+07,mulhouse-nord,non,franchissement de signal
+07,dole ville,non,déraillement
+04,gadagne,oui,incident grave de signalisation
+07,gare de bois-colombes,non,franchissement de signal
+07,châlons-sur-saône,non,franchissement de signal
+07,perrigny,non,réception intempestive sur voie occupée
+07,nîmes,non,erreur de procédure
+07,entre vallentigny et vitry le françois,oui,défaut géométrie voie
+07,dijon ville,non,départ sans autorisation
+11,versailles chantier,oui,franchissement de signal
+11,entre aix les bains et culoz,oui,incident grave de passage à niveau
+11,somain,non,erreur de procédure
+11,vernon givergny,non,porte ouverte en ligne
+11,monsoult-maffliers,non,expédition sans ordre
+10,montrouge,oui,
+10,nimes,non,erreur grave de procédure
+11,lyon,non,franchissement de signal
+11,saillans,oui,dépassement de vitesse supérieur à 40km/h
+11,montcrichart,oui,raté de fermeture à un passage à niveau
+01,montigny beauchamps,non,déraillement
+01,le havre,oui,collision entre trains ou éléments de trains
+01,nantes,non,déraillement
+01,hendaye,non,incident caténaire
+01,acheres,oui,incident grave
+01,paris austerlitz,non,départ sans autorisation
+08,lyon saint clair,non,dégagement intempestif du domaine fermé
+08,anse,oui,expédition sans ordre
+09,longueville,oui,expédition sans ordre
+09,maintenon,oui,arrêt hors de quai de tout ou partie d’un train de voyageurs
+08,chartres,oui,expédition sans ordre
+08,lutterbach,oui,pénétration intempestive sur domaine fermé
+09,entre angouleme et limoges,non,mise en œuvre de travaux en dehors du domaine fermé
+09,vezenobres,oui,défaillance d'ouvrage
+08,hendaye,non,collision avec enfoncement de heurtoir
+08,bordeaux,non,insuffisance de freinage
+08,miramas,oui,franchissement de signal
+07,aix les bains le revard,oui,erreur de procédure
+08,angers saint laud,oui,franchissement de signal
+08,bersac,oui,incendie dans un train
+07,thiviers,non,collision par prise en écharpe
+08,valence,oui,dérive
+07,thiers,oui,expédition sans ordre
+08,lisle sur tarn,oui,incendie dans un train
+08,gondrexange,non,collision entre trains ou éléments de trains
+07,verzeille,non,collision contre obstacle à un passage à niveau
+09,grenoble,non,dégagement intempestif du domaine fermé
+09,bordeaux,non,réalimentation intempestive des caténaires
+09,lison,non,déraillement
+09,paris nord,non,mise en œuvre de travaux en dehors du domaine fermé
+09,colombiers,non,erreur de procédure
+09,wanhehain,non,péremption du potentiel kilométrique
+09,montchanin,non,collision contre obstacle
+09,mulhouse,non,composition non conforme
+09,pont cardinet,non,franchissement de signal
+10,entre avord et nerondes,non,défaut géométrie voie
+12,entre beillant et saint mariens,oui,défaillance voie
+11,peltre,oui,expédition sans ordre
+12,agen,non,engagement de gabarit suite à désemparement de pièce
+11,molsheim,non,engagement intempestif d’une circulation sous caténaire consignée
+12,paris bercy conflans,non,accostage brutal
+11,marseille,non,incident caténaire
+11,bois-colombes,non,collision avec enfoncement de heurtoir
+01,saint-pierre des corps,oui,collision entre trains ou éléments de trains
+02,entre claveyson et valence tgv,oui,erreur de procédure
+01,gretz,oui,quasi accident de travail
+02,metz-ville,non,déraillement
+01,lourdes,non,ouverture par un tiers d’une porte en marche
+01,graveson,non,boîte chaude
+01,redon,non,départ sans autorisation
+01,brive,non,frein serré
+02,cordemais,non,expédition sans ordre
+02,villeneuve-prairie,non,départ sans autorisation
+02,corbehem,non,déraillement
+02,soultz-sous-forêts,non,raté de fermeture à un passage à niveau
+02,rambouillet,non,electrisation
+02,les ardoines,non,electrisation
+01,rouen rive-droite,oui,dérive
+02,chabanais,non,circulation de véhicule non autorisée
+02,entre belfort et delle,non,electrisation
+02,paris-sud-est,non,electrisation
+03,bussac,oui,incident grave
+05,dieulouard,non,talonnage d’aiguille ou bivoie
+06,septemes,oui,incendie dans un train
+06,narbonne,oui,dépassement de vitesse supérieur à 40km/h
+05,luneville,non,dérive
+06,grenoble,non,talonnage d’aiguille ou bivoie
+06,hourcade,non,franchissement de signal
+06,aulnay sous bois,oui,franchissement de signal
+06,saint-jean maurienne,non,boîte chaude
+07,la penne sur huveaune,oui,incendie dans un train
+07,la ferte milon,non,talonnage d’aiguille ou bivoie
+06,saint-die des vosges,non,défaillance voie
+07,vichy,oui,défaillance voie
+02,tonnerre,non,franchissement de signal
+02,entre vénisieux et bourgoin jallieu,oui,incendie dans un train
+02,tarare,non,expédition sans ordre
+02,toulouse poste 3,non,point limite d’un pantographe dépassé par une circulation électrique
+02,lyon technicente,non,franchissement de signal
+02,bossey,non,incident caténaire
+02,famechon,non,quasi accident de travail
+03,valenciennes,oui,défaillance voie
+02,grenoble,non,dégagement de fumée sur matériel roulant
+02,port la nouvelle,non,déraillement sans engagement de la voie principale
+03,castre,non,expédition sans ordre
+03,laon,oui,dérive
+03,fos-sur-mer,oui,dépassement de vitesse supérieur à 40km/h
+03,vaires,non,non respect du point d’arrêt
+03,joncherolles,non,franchissement de signal
+03,nice,non,franchissement de signal
+03,metz ville,non,réception intempestive sur voie occupée
+03,luxembourg,oui,franchissement de signal
+03,heming,non,talonnage d’aiguille ou bivoie
+03,reims betheny,non,déraillement sans engagement de la voie principale
+03,entre bourg st andéol et le teil,oui,raté de fermeture à un passage à niveau
+04,biarritz,non,déraillement
+03,calais,oui,franchissement de signal
+04,munster,non,franchissement de signal
+04,longueau,non,franchissement de signal
+04,fos coussoul,non,incendie dans un train
+04,toulouse,non,départ sans autorisation
+03,nuits-sous-ravières,non,talonnage d’aiguille ou bivoie
+03,entre bourg-st-andéol et pont-st-esprit,oui,raté de fermeture à un passage à niveau
+03,petit therain,non,déraillement sans engagement de la voie principale
+09,byans,oui,dépassement de vitesse supérieur à 40km/h
+09,mont de terre,non,engagement de gabarit suite à désemparement de pièce
+08,saint-benoît,oui,défaillance voie
+08,condé sur huisne,non,collision contre obstacle à un passage à niveau
+08,paris montparnasse,oui,dérive
+08,paris saint-lazare,oui,franchissement de signal
+08,folligny,non,circulation de véhicule non autorisée
+08,pont de claix,non,accident de personne
+08,entre varilhes et pamiers,oui,dépassement de vitesse supérieur à 40km/h
+07,ep de jessains,non,collision
+08,entre paris magenta et paris hausmann saint lazare,non,autre
+08,saint-germain au mont d'or,non,engagement de gabarit suite à désemparement de pièce
+08,entre thouars et beuxes,oui,défaillance voie
+02,tgv haute picardie,oui,accident de personne
+02,lille délivrance,non,réception intempestive sur voie occupée
+02,lyon perrache,oui,engagement intempestif d’une circulation sur une voie protégée
+02,bordeaux,non,réception intempestive sur voie occupée
+02,entre villennes sur seine & poissy,non,boîte chaude
+02,mulhouse,non,porte ouverte en ligne
+02,montluçon-eau,non,déraillement sans engagement de la voie principale
+02,solliès pont,non,déraillement sans engagement de la voie principale
+02,ancenis,non,déraillement sans engagement de la voie principale
+02,givors,non,talonnage d’aiguille ou bivoie
+09,mantes la jolie,oui,autorisation de franchissement sans vérification
+09,le mans,oui,sortie intempestive ou engagement d’un domaine fermé
+09,limoges dépôt,oui,sortie intempestive ou engagement d’un domaine fermé
+09,metz ville,non,franchissement de signal
+09,senas,oui,sortie intempestive ou engagement d’un domaine fermé
+09,morcenx,oui,défaillance voie
+09,reignier,oui,mise en œuvre de travaux en dehors du domaine fermé
+09,limoges,non,sortie intempestive ou engagement d’un domaine fermé
+09,noisy le sec,non,collision contre obstacle
+09,rambouillet,non,point limite d’un pantographe dépassé par une circulation électrique
+09,champigneulles,non,mise en œuvre de travaux en dehors du domaine fermé
+09,entre pantin et noisy le sec,non,départ sans autorisation
+09,collonges fontaines,non,franchissement de signal
+09,rochefort sur nenon,non,appareil de voie mal disposé
+09,nantes,non,franchissement de signal
+09,paris st lazare,non,dérive
+10,miramas,non,collision entre trains ou éléments de trains
+09,lyon guillotière,oui,mise en œuvre de travaux en dehors du domaine fermé
+10,lûmes,non,réception intempestive sur voie occupée
+09,rennes,non,erreur de procédure
+10,marignier,non,talonnage d’aiguille ou bivoie
+09,sucé sur erdre,non,franchissement de signal
+09,achères triage,non,franchissement de signal
+09,toulouse,non,franchissement de signal
+09,paris st lazare,non,dérive
+09,lens,non,talonnage d’aiguille ou bivoie
+10,entre sénas et cavaillon,non,franchissement de signal
+10,chanay,oui,déraillement sans engagement de la voie principale
+10,longeray léaz,non,intempéries
+10,ris orangis,non,talonnage d’aiguille ou bivoie
+10,strasbourg,non,déraillement sans engagement de la voie principale
+10,vénissieux technicentre,non,déraillement sans engagement de la voie principale
+10,miramas,non,déraillement sans engagement de la voie principale
+10,nîmes,oui,défaillance voie
+01,puyoo,non,réception intempestive sur voie occupée
+04,vaires sur marnes,oui,pénétration intempestive sur domaine fermé
+04,sartrouville,oui,dégagement intempestif du domaine fermé
+05,biarritz,oui,départ sans autorisation
+05,limoges,non,engagement de gabarit suite à désemparement de pièce
+06,gare de versailles-chantiers,non,franchissement de signal
+06,chatenay sur seine,oui,déraillement
+05,gare de massy palaiseau,oui,franchissement de signal
+06,nîmes,non,franchissement de signal
+04,cercottes,non,dépassement de vitesse supérieur à 40km/h
+05,vierzon,non,départ sans autorisation
+05,gare de serquigny,non,obstacle sur voie
+08,vaires sur marne,oui,délivrance d’un bulletin de franchissement sans vérification
+09,roanne,non,déraillement sans engagement de la voie principale
+08,hourcade,non,franchissement de signal
+09,viroflay,non,franchissement de signal
+08,entre chedde et servoz,non,défaillance voie
+08,nogent le perreux,oui,défaillance voie
+09,breauté beuzeville,non,déraillement sans engagement de la voie principale
+09,lyon guillotière,non,franchissement de signal
+09,petit thérain,non,collision entre trains ou éléments de trains
+08,bobigny,non,accident de personne
+09,lamballe,non,départ sans autorisation
+09,patay,non,non respect du point d’arrêt
+09,angers st laud,non,réception intempestive sur voie occupée
+09,raon l'etape,non,appareil de voie mal disposé
+09,puy guillaume,non,déraillement sans engagement de la voie principale
+09,cassis,non,déraillement sans engagement de la voie principale
+09,st germain au mont d’or,non,déraillement sans engagement de la voie principale
+09,entre meaux et la ferté milon,oui,défaillance voie
+10,perpignan,non,déraillement sans engagement de la voie principale
+09,reims bétheny,non,déraillement sans engagement de la voie principale
+10,st cyr,non,sortie intempestive ou engagement d’un domaine fermé
+10,batignolles,non,dérive
+09,valence moirans,non,sortie intempestive ou engagement d’un domaine fermé
+10,perrigny,non,collision contre obstacle
+10,marvejols,non,talonnage d’aiguille ou bivoie
+10,bourg en bresse,non,déraillement sans engagement de la voie principale
+10,gevrey,non,déraillement sans engagement de la voie principale
+10,nîmes,non,défaillance voie
+10,valenton,non,déraillement sans engagement de la voie principale
+10,entre alençon et la hutte,non,incident grave de passage à niveau
+11,orry la ville,non,arrêt hors de quai de tout ou partie d’un train de voyageurs
+10,stephansfeld,non,chute de voyageur
+11,pont cardinet,non,erreur de procédure
+10,cessens,non,perte d’organe du matériel roulant
+11,entre bourmont et neufchâteau,oui,acte de malveillance
+10,villeneuve st georges triage,non,franchissement de signal
+11,gevrey,non,franchissement de signal
+11,dijon ville chantier,non,réalimentation intempestive des caténaires
+12,grand pont,non,départ sans autorisation
+12,dreux,non,réception intempestive sur voie occupée
+12,vierzy,oui,dépassement de vitesse supérieur à 40km/h
+12,achères,non,réception sur voie secondaire
+12,ambérieu,non,incident caténaire
+12,l’hébergement les brouzils,non,porte ouverte en ligne
+12,nogent l'artaud,non,incident caténaire
+12,rennes technicentre,non,non conformité du matériel roulant
+12,perrigny poste a,non,talonnage d’aiguille ou bivoie
+12,paris le landy,non,franchissement de signal
+10,clermont ferrand,oui,défaut géométrie voie
+10,collonges fontaines,oui,insuffisance de freinage
+10,badan,non,réception intempestive sur voie occupée
+10,romans bourg de péage,non,circulation de véhicule non autorisée
+10,maizières les metz,oui,accident du travail
+10,paris est,non,collision entre trains ou éléments de trains
+10,paris bercy,non,réception intempestive sur voie occupée
+10,hazebrouck,non,talonnage d’aiguille ou bivoie
+10,serquigny,non,talonnage d’aiguille ou bivoie
+10,provins,non,talonnage d’aiguille ou bivoie
+11,combs la ville,oui,accident du travail
+12,batignolles,non,franchissement de signal
+11,entre laroquebrou et viescamp,oui,déshuntage
+11,paris austerlitz,non,déraillement sans engagement de la voie principale
+11,vaires sur marne,non,déraillement sans engagement de la voie principale
+12,argenteuil,non,déraillement sans engagement de la voie principale
+11,maurecourt,non,accident de personne
+12,sète,non,déraillement sans engagement de la voie principale
+12,batignolles,non,incident caténaire
+11,valenciennes,non,déraillement sans engagement de la voie principale
+12,juvisy,non,défaillance voie
+12,marly le roi,non,déraillement sans engagement de la voie principale
+12,bordeaux technicentre,non,déraillement sans engagement de la voie principale
+12,entre la chapelle centre & la chapelle aulnay,non,collision contre obstacle
+12,entre conches et la bonneville,non,collision contre obstacle
+12,st quentin fallavier,non,défaillance voie
+12,entre questembert et vannes,non,collision contre obstacle
+12,deuil montmagny,non,collision contre obstacle à un passage à niveau
+12,woippy,non,déraillement sans engagement de la voie principale
+12,st benoit,non,collision contre obstacle
+01,entre nice st roch et drap,oui,collision contre obstacle à un passage à niveau
+01,aix en provence,oui,franchissement de signal
+01,montbéliard,non,réalimentation intempestive des caténaires
+11,gare du pont-cardinet,oui,déraillement
+11,saint gaudens,oui,franchissement de signal
+12,aulnay,oui,franchissement de signal
+11,montreuil sur ille,oui,erreur de procédure
+11,rennes,oui,erreur de procédure
+12,pontchaillou,oui,raté de fermeture à un passage à niveau
+11,castelsarrasin,oui,déraillement
+04,nangis,oui,collision contre obstacle à un passage à niveau
+12,brive,non,déraillement sans engagement de la voie principale
+12,bourg en bresse,non,collision contre obstacle à un passage à niveau
+12,toulouse,non,engagement intempestif d’une circulation sous caténaire consignée
+12,clamart,non,erreur de procédure
+03,niolon,oui,défaillance d'ouvrage
+09,morlaix,non,franchissement de signal
+09,lyon tunnel de caluire,non,arrêt prolongé d’un train de voyageurs dans un tunnel de plus de 1 km
+09,manduel,non,franchissement de signal
+09,paris bercy,oui,défaut ayant conduit à un risque grave
+09,la défense,non,incendie dans un train
+09,batignolles,non,heurt au croisement
+09,hofmuhl,non,collision contre obstacle
+09,argenteuil triage,non,déraillement sans engagement de la voie principale
+09,rosny sur seine,non,déraillement sans engagement de la voie principale
+09,juvisy,oui,défaillance voie
+10,carcassonne,oui,incident grave de signalisation
+10,paris st lazare,non,franchissement de signal
+10,montereau,non,déraillement sans engagement de la voie principale
+10,givors canal,oui,défaillance voie
+10,villeneuve triage,non,déraillement sans engagement de la voie principale
+10,mouchard,oui,incident grave de signalisation
+10,boussy st antoine,non,franchissement de signal
+10,perpignan,oui,défaillance voie
+10,st george d’aurac,non,talonnage d’aiguille ou bivoie
+10,miramas,non,talonnage d’aiguille ou bivoie
+08,annemasse,non,franchissement de signal
+09,clermont ferrand,non,perte d’organe du matériel roulant
+08,woippy triage,non,déraillement sans engagement de la voie principale
+08,trappes,non,déraillement sans engagement de la voie principale
+09,pantin,oui,défaillance voie
+08,flamboin,non,appareil de voie mal disposé
+08,vaires ep ecoballast,non,déraillement sans engagement de la voie principale
+08,somain,non,déraillement sans engagement de la voie principale
+08,les laumes alesia,non,défaillance voie
+08,woippy,non,incident de marchandise dangereuse
+01,orléans,non,franchissement de signal
+01,entre port villez et bonnières,oui,collision contre obstacle à un passage à niveau
+01,paris-montparnasse,non,départ sans autorisation
+01,bourg en bresse,oui,départ sans autorisation
+01,nice technicentre,non,talonnage d’aiguille ou bivoie
+01,vierzon,non,talonnage d’aiguille ou bivoie
+01,uckange,non,talonnage d’aiguille ou bivoie
+11,vénissieux,oui,départ sans autorisation
+11,entre connerré beillé et nogent le rotrou,non,engagement intempestif d’une circulation sur une voie protégée
+10,clermont ferrand,non,franchissement de signal
+11,entre st michel et paris austerlitz banlieue,non,défaillance voie
+10,l'etang,non,accident de personne
+11,entre st germain des fossés et gannat,non,déshuntage
+11,valenciennes,non,point limite d’un pantographe dépassé par une circulation électrique
+10,miramas,non,talonnage d’aiguille ou bivoie
+11,somain,non,talonnage d’aiguille ou bivoie
+11,le landy,non,accident du travail
+10,porte les valence,non,sortie intempestive ou engagement d’un domaine fermé
+09,avignon champfleury,non,collision entre trains ou éléments de trains
+09,hourcade,non,talonnage d’aiguille ou bivoie
+09,st saviol,non,point limite d’un pantographe dépassé par une circulation électrique
+10,lille flandres,non,départ sans autorisation
+10,souillac,non,expédition sans ordre
+09,entre issy et javel,non,franchissement de signal
+10,mitry claye,non,réception intempestive sur voie occupée
+09,paris ourcq,non,déraillement sans engagement de la voie principale
+09,achères,non,défaillance voie
+12,paris bercy conflans,non,collision contre obstacle
+12,somain,non,déraillement sans engagement de la voie principale
+12,entre st aignan noyers et vierzon,oui,expédition sans ordre
+11,aiguebelle,non,engagement intempestif d’une circulation sur une voie protégée
+12,macon,oui,accident du travail
+12,entre castelnaudary et villefranche de lauragais,non,déshuntage
+12,motteville,oui,acte de malveillance
+11,hausbergen,non,déraillement sans engagement de la voie principale
+12,ambérieu,non,déraillement sans engagement de la voie principale
+11,nevers,non,déraillement sans engagement de la voie principale
+12,vénissieux dépôt,non,déraillement sans engagement de la voie principale
+12,bordeaux,non,déraillement sans engagement de la voie principale
+12,batignolles,non,dérive
+12,amagne,non,franchissement de signal
+12,entre st arnoult et st léger,non,collision contre obstacle
+12,bordeaux,non,déraillement sans engagement de la voie principale
+12,perrigny,non,dégagement de fumée sur matériel roulant
+12,hendaye,non,déraillement sans engagement de la voie principale
+12,graveline,non,incident caténaire
+12,bordeaux dépôt,non,collision contre obstacle
+12,cerbère,non,franchissement de signal
+01,héricourt,non,collision contre obstacle à un passage à niveau
+01,marseille blancarde,non,collision par prise en écharpe
+12,entre moult argences et frénouville cagny,non,collision contre obstacle
+12,entre bretteville norrey et caen,non,collision contre obstacle
+12,saincaize,non,dégagement de fumée sur matériel roulant
+01,nevers,non,déraillement sans engagement de la voie principale
+12,pont à mousson,non,collision contre obstacle
+12,entre err et st léocadie,non,défaillance voie
+01,noisy le sec,non,talonnage d’aiguille ou bivoie
+01,paris saint lazare,non,départ sans autorisation
+01,st etienne chateaucreux,non,réception intempestive sur voie occupée
+01,dreux,non,franchissement de signal
+10,entre beillant et pons,oui,raté de fermeture à un passage à niveau
+09,mortkerque,oui,porte ouverte en ligne
+10,gare de thouars,non,talonnage d’aiguille ou bivoie
+09,montereau,non,déraillement sans engagement de la voie principale
+10,eze,oui,porte ouverte en ligne
+07,entre viviers sur rhones et bourg saint andeol,non,raté de fermeture à un passage à niveau
+06,dépôt de chambery,oui,défaut géométrie voie
+06,verrey,non,collision contre obstacle
+06,saint-chamas,non,frein serré
+05,perrigny poste 3,oui,collision avec enfoncement de heurtoir
+05,penne,oui,désordre d’ouvrage d'art
+05,gare de montreuil,oui,défaillance voie
+05,rennes,oui,franchissement de signal
+05,gare de quimper,non,incendie dans un train
+06,bitschwiller,oui,collision contre obstacle à un passage à niveau
+05,ancy le franc,oui,incendie dans un train
+06,riom,oui,défaillance voie
+05,entre juvisy et villeneuve le r.,oui,perte d’organe du matériel roulant
+05,gare de trappes poste 3,non,dérive
+05,st martin-sail-les-bains,non,déshuntage
+05,aulnay,oui,franchissement de signal
+05,vallon,oui,incident grave de signalisation
+05,valence tgv,non,perte d’organe du matériel roulant
+04,le landy,non,sortie intempestive ou engagement d’un domaine fermé
+05,entre sin le noble et cambrai,oui,défaillance voie
+05,le mans,oui,défaillance voie
+05,epinay villetaneuse,oui,défaillance voie
+09,monterolier buchy,oui,sortie intempestive ou engagement d’un domaine fermé
+09,gevrey triage,non,défaut sur aiguille
+09,sibelin,oui,matières dangereuses
+07,entre lamballe & dinan,non,avarie matériel roulant
+07,osny,oui,raté de fermeture à un passage à niveau
+07,brax leguevin,non,non mise en protection
+07,viessoix,non,autorisation de franchissement sans vérification
+07,saint-florentin,oui,porte ouverte en ligne
+07,bordeaux,non,départ sans autorisation
+07,miramas,non,déraillement sans engagement de la voie principale
+07,mommenheim,non,non conformité du matériel roulant
+07,génolhac,non,talonnage d’aiguille ou bivoie
+06,chambery,non,dérive
+11,apach,oui,dépassement de vitesse supérieur à 40km/h
+11,metz-ville,oui,franchissement de signal
+11,rambouillet,oui,expédition sans ordre
+11,culmont chalindrey,non,franchissement de signal
+11,chalon sur saone,non,engagement intempestif d’une circulation sur une voie protégée
+11,maurois,oui,défaillance voie
+11,evreux,non,erreur de procédure
+11,luzarches,non,franchissement de signal
+11,venissieux,non,erreur de procédure
+11,viry,non,incident grave
+09,clermont-ferrand,oui,mise en œuvre de travaux en dehors du domaine fermé
+09,entre saint chery et vierzon,non,collision contre obstacle à un passage à niveau
+09,miramas,oui,déraillement
+09,vienne,non,incendie dans un train
+09,hermes berthecourt,non,défaut ayant conduit à un risque grave
+08,mulhouse,non,déraillement
+08,genolhac,oui,incident grave
+09,dunkerque,non,incident grave de signalisation
+08,rambouillet,non,déraillement sans engagement de la voie principale
+09,saint-pierre des corps,oui,défaut géométrie voie
+08,vic le comte,oui,raté de fermeture à un passage à niveau
+07,pont de sallaumines,non,franchissement de signal
+07,venissieux,oui,porte ouverte en ligne
+07,paris batignolles,non,départ sans autorisation
+08,besançon,non,non mise en protection
+09,selestat,oui,incident grave
+08,paris saint lazare,oui,défaillance voie
+07,bordeaux,non,franchissement de signal
+08,luneville,non,incident grave de signalisation
+07,longuyon,non,boîte chaude
+11,chantenay,oui,erreur de procédure
+11,etampes,oui,collision
+12,nancy,oui,collision
+11,hausbergen,non,déraillement
+11,guignicourt,non,collision contre obstacle
+12,paris austerlitz,non,collision par prise en écharpe
+12,hesdin,non,défaut ayant conduit à un risque grave
+12,badan,non,réception intempestive sur voie occupée
+12,valence,non,engagement de gabarit suite à désemparement de pièce
+12,entre vichy et puy guillaume,oui,défaut géométrie voie
+10,dijon porte neuve,oui,talonnage d’aiguille ou bivoie
+10,nimes,non,erreur de procédure
+11,reims,oui,défaut géométrie voie
+10,montrouge,non,erreur de procédure
+09,l'ardoise,non,incident grave de passage à niveau
+10,versailles chantier,oui,défaut ayant conduit à un risque grave
+09,boullereaux,non,défaut géométrie voie
+09,pihen,oui,péremption du potentiel kilométrique
+10,lyon-guillotiere,oui,défaut géométrie voie
+10,saint-pierre des corps,oui,collision entre trains ou éléments de trains
+01,perpignan,oui,collision avec enfoncement de heurtoir
+01,la vilette saint-priest,oui,raté de fermeture à un passage à niveau
+01,somain,non,accident de marchandise dangereuse
+01,vienne,non,composition non conforme
+01,uckange,non,appareil de voie mal disposé
+12,entre paris nord et compiegne,oui,porte ouverte en ligne
+01,grenoble,oui,autorisation de franchissement sans vérification
+01,dunkerque,oui,dépassement de vitesse supérieur à 40km/h
+01,laon,non,déraillement
+01,reims,non,départ sans autorisation
+12,aulnay sous bois,oui,dépassement de vitesse supérieur à 40km/h
+01,arras,non,dégagement de fumée sur matériel roulant
+12,feyzin,non,incendie dans un train
+01,marseille,non,circulation de véhicule non autorisée
+01,entre limeray et veuves-monteaux,oui,porte ouverte en ligne
+02,paris-nord,non,franchissement de signal
+02,lille-flandres,oui,collision avec enfoncement de heurtoir
+03,melun,oui,erreur de procédure
+02,tarascon,non,accident du travail
+02,sibelin,non,marchandises dangereuses
+03,vaires-sur-marne,oui,défaut géométrie voie
+02,paris,non,accident du travail
+04,hazebrouck,non,porte ouverte en ligne
+03,fondamente,oui,désordre ouvrage d’art
+03,belfort,non,insuffisance de freinage
+04,marseille,oui,dérive
+03,nc,non,accident du travail
+03,auterive,non,collision contre un obstacle à un passage à niveau
+03,villeneuve sur allier,oui,porte ouverte en ligne
+03,hendaye,non,perte d’organe du matériel roulant
+01,entre boën et thiers,oui,erreur grave de procédure
+02,urt,oui,défaut géométrie voie
+01,batignolles,oui,expédition sans ordre
+02,blois,oui,expédition sans ordre
+02,paris austerlitz,non,mise en œuvre de travaux en dehors du domaine fermé
+02,fronville,non,défaillance voie
+01,chelles gournay,non,robinet de suspension isolé
+01,montrabe,non,franchissement de signal
+02,le landy,non,défaut géométrie voie
+01,bourges,non,engagement de gabarit suite à désemparement de pièce
+12,etampes,oui,collision entre trains ou éléments de trains
+12,becon les bruyeres,oui,incident grave de signalisation
+11,massena,non,franchissement de signal
+11,don sainghin,oui,franchissement de signal
+11,bordeaux,non,déraillement sans engagement de la voie principale
+11,valenton,non,franchissement de signal
+11,salbris,non,collision contre obstacle
+12,chambéry,non,déraillement sans engagement de la voie principale
+11,perrigny,non,talonnage d’aiguille ou bivoie
+12,moirans,non,porte ouverte en ligne
+01,saint pierre des corps,non,talonnage d’aiguille ou bivoie
+12,la valbonne,oui,défaillance voie
+01,achères,non,déraillement sans engagement de la voie principale
+12,sibelin,non,incident de marchandise dangereuse
+12,saint fons,non,incident caténaire
+01,haguenau,non,perte d’organe du matériel roulant
+01,orléans,non,composition non conforme
+01,plessis-bellevile,non,collision contre obstacle à un passage à niveau
+12,entre velluire et la rochelle,oui,dépassement de vitesse supérieur à 40km/h
+01,sibelin,non,collision par prise en écharpe
+10,thionville,non,talonnage d’aiguille ou bivoie
+10,entre villiers neauphle ponchartrain et monfort l'amaury mére,oui,sortie intempestive ou engagement d’un domaine fermé
+10,entre beillant et pons,non,erreur de procédure
+09,château du loir,oui,déraillement
+09,entre béziers et sète,non,accident du travail
+09,poissy,non,collision avec enfoncement de heurtoir
+10,gare de rennes,non,dérive
+10,entre nevers et arzembouy ep,oui,défaillance voie
+10,theoule sur mer,oui,désordre d’ouvrage en terre
+09,villefranche - vernet les bains,non,déraillement
+03,amboise,oui,autorisation de départ sans autorisation
+03,entre patay et gommiers,oui,collision contre un obstacle à un passage à niveau
+03,villeneuve triage,non,franchissement de signal
+03,yversay,non,collision contre un obstacle à un passage à niveau
+03,paris saint lazare,non,départ sans autorisation
+03,auxonne,non,engagement de gabarit
+10,entre formerie pl et sommery pl,oui,dérive
+10,trilport,non,réalimentation intempestive des caténaires
+10,port sainte marie,oui,déraillement
+11,palais sur vienne,non,incendie dans un train
+11,gare de saint amour,non,franchissement de signal
+10,entre gisors et trie-château pl,non,porte ouverte en ligne
+10,paris bercy conflans,non,engagement de gabarit
+10,paris gare de lyon,oui,incendie dans un train
+10,entre saint-germain et gannat,non,défaillance voie
+10,vallorcine,non,départ sans autorisation
+02,belfort,oui,franchissement de signal
+02,le mans,oui,franchissement de signal
+02,monsoult maffliers,oui,collision contre obstacle
+02,poitiers,non,déraillement
+03,saint-germain au mont d'or,non,déraillement
+02,paris saint-lazare,non,dérive
+02,gaillac,non,engagement de gabarit suite à désemparement de pièce
+02,hendaye triage,oui,désordre ouvrage d’art
+02,nevers,non,circulation de véhicule non autorisée
+04,valanciennes saint saulve,non,collision par prise en écharpe
+03,bretigny,non,dérive
+03,sartrouville,oui,collision contre obstacle
+02,entre montluel et meximieux,oui,expédition sans ordre
+03,dax,oui,modification intempestive d'itinéraire
+04,chapeauroux,non,talonnage d’aiguille ou bivoie
+03,jarville,non,franchissement de signal
+03,entre fourneaux et aubusson,non,collision contre obstacle
+03,ermont-eaubonne,oui,défaut géométrie voie
+04,angers saint laud,oui,franchissement de signal
+05,combs la ville,non,défaut d’immobilisation
+04,chateauneuf sur loire,oui,déraillement
+05,saint-jory,non,talonnage d’aiguille ou bivoie
+04,entre paris saint-lazare et caen,non,composition non conforme
+04,entre regny et amplepuis,oui,expédition sans ordre
+04,toulouse,non,porte ouverte en ligne
+04,paris est,non,engagement de gabarit suite à désemparement de pièce
+05,entre empalot et toulouse,non,incident grave de signalisation
+05,thionville,non,formation intempestive d'un itinéraire
+05,gare d'argenteuil,non,réception intempestive sur voie occupée
+01,lunel,oui,raté de fermeture à un passage à niveau
+01,strasbourg technicentre,non,accostage brutal
+01,grigny,oui,raté de fermeture à un passage à niveau
+01,bréauté,non,réception intempestive sur voie occupée
+01,montbrison,oui,dépassement de vitesse supérieur à 40km/h
+01,montbrison,oui,dépassement de vitesse supérieur à 40km/h
+01,chambéry technicentre,non,franchissement de signal
+04,saint germain saint rémy,oui,incident grave de signalisation
+04,tergnier,oui,dégagement intempestif du domaine fermé
+03,le landy,non,engagement intempestif d’une circulation sur une voie protégée
+03,verdun,non,collision entre trains ou éléments de trains
+03,woippy,oui,incident grave de signalisation
+03,le mee,non,porte ouverte en ligne
+02,moulins,non,franchissement de signal
+04,bellevue,non,dérive
+03,saint-andré-le-gaz,non,départ sans autorisation
+10,toulenne,oui,collision contre obstacle à un passage à niveau
+10,dijon ville,non,franchissement de signal
+09,valenciennes,oui,franchissement de signal
+10,gare de redon,non,perte d’organe du matériel roulant
+10,lille,oui,porte ouverte en ligne
+10,châlons-sur-saône,non,franchissement de signal
+10,entre gretz-armainvilliers et coulommiers,oui,défaillance voie
+09,hourcade,oui,défaillance voie
+10,gare de massy palaiseau,oui,défaillance voie
+10,paris la vilette,oui,défaillance voie
+10,aigueperse,oui,incident grave de signalisation
+10,brive,non,défaillance voie
+10,saint victurien,oui,défaillance voie
+11,entre romans et valence,oui,raté de fermeture à un passage à niveau
+10,beillant,non,défaillance voie
+11,luxembourg-ville (luxembourg),oui,franchissement de signal
+11,maurs,oui,défaillance voie
+11,saint-ouen,oui,dérive
+11,saint-etienne chateaucreux,non,défaillance voie
+12,entre villeneuve-les-maguelone et montpellier saint-roch,oui,mise en œuvre de travaux en dehors du domaine fermé
+12,petit therain,non,composition non conforme
+01,entre pont saint vincent et blainville,oui,mise en œuvre de travaux en dehors du domaine fermé
+12,gare de pont-cardinet,non,non mise en protection
+12,gare de saint-brieuc,non,franchissement de signal
+01,entre la souterraine et forgevieille,non,collision contre obstacle
+12,limoges,non,collision contre obstacle
+12,sibelin,oui,incident de marchandise dangereuse
+12,lesquin,non,défaillance voie
+12,aix en provence,non,engagement de gabarit suite à désemparement de pièce
+11,entre sainte paterne et pont pierre,oui,mise en œuvre de travaux en dehors du domaine fermé
+11,berchette,non,incident grave de signalisation
+12,miramas,oui,sortie intempestive ou engagement d’un domaine fermé
+12,lyon perrache,non,talonnage d’aiguille ou bivoie
+11,grenoble,non,reception sur voie non-electrifiée
+11,corbeil essones,oui,accident du travail
+11,thionville,oui,sortie intempestive ou engagement d’un domaine fermé
+11,gare de paris saint lazare,non,dérive
+11,béziers,non,reception sur voie non-electrifiée
+12,bobigny,oui,défaillance voie
+04,la valdahon,oui,franchissement de signal
+04,entre saint-cesaire et generac,oui,raté de fermeture à un passage à niveau
+04,moosch,non,dégagement de fumée sur matériel roulant
+04,nogent le perreux,oui,collision contre obstacle
+04,gardonne,oui,délivrance d’un bulletin de franchissement sans vérification
+04,saincaize,non,défaut géométrie voie
+03,marseille,non,collision contre obstacle
+01,entre noisy-le-sec et gare de paris est,oui,dépassement de vitesse supérieur à 40km/h
+01,la chapelle - paris nord,non,talonnage d’aiguille ou bivoie
+01,entre paris saint lazare et mantes la jolie,non,erreur de procédure
+01,gare de achères triage – poste a,non,déraillement sans engagement de la voie principale
+01,blere,oui,evénement de sécurité sans boucle de rattrapage
+12,saint florentin,non,déraillement
+01,vallorcine,oui,erreur grave de procédure
+01,rennes depot,non,dérive
+01,miramas,non,incident de marchandise dangereuse
+01,entre laroche-migènes et saint-florentin-vergigny,oui,porte ouverte en ligne
+02,ferrieres fontenay,oui,expédition sans ordre
+02,cravant-bazarnes,non,acte de malveillance
+02,clermont de l'oise,non,mise en œuvre de travaux en dehors du domaine fermé
+02,entre saint-martin sail les bains et saint germain des fosses,oui,incident grave de signalisation
+02,pont cardinet,non,délivrance d’un bulletin de franchissement sans vérification
+02,lourches,non,déraillement sans engagement de la voie principale
+02,pontoise,non,franchissement de signal
+02,lyon saint clair,oui,désordre d’ouvrage en terre
+02,gare de nantes blottereau - poste 4,non,franchissement de signal
+02,entre masseret et uzerche,non,collision contre obstacle
+04,survilliers fosses,non,déraillement sans engagement de la voie principale
+04,massy palaiseau,oui,dégagement intempestif du domaine fermé
+04,entre lisieux et mezidon canon,non,non conformité du matériel roulant
+04,bordeaux,non,accident du travail
+04,gare d'achères,non,expédition sans ordre
+05,emerainville,oui,dégagement de fumée sur matériel roulant
+04,dreux,oui,porte ouverte en ligne
+04,culmont - chalindrey,non,déraillement
+02,villeneuve-prairie,non,evènement de sécurité sans boucle de rattrapage
+03,nantes blottereau,non,franchissement de signal
+03,montrejeau,non,erreur de procédure
+03,villeneuve-triage,non,talonnage d’aiguille ou bivoie
+02,lille,oui,porte ouverte en ligne
+02,aulnoye - aymeries,oui,electrisation
+03,montanay,non,dépassement de vitesse supérieur à 40km/h
+03,les aubrais,non,porte ouverte en ligne
+03,quesnoy sur deule,non,raté de fermeture à un passage à niveau
+02,poitiers,oui,
+03,bourgoin-jallieu,non,franchissement de signal
+03,vierzon,non,déraillement sans engagement de la voie principale
+04,paris saint lazare,non,départ sans autorisation
+04,amiens,oui,franchissement de signal
+03,st fons,non,incident caténaire
+04,aulnoye - aymeries,oui,incident grave de signalisation
+04,pontoise,non,franchissement de signal
+03,gonesse,oui,défaillance voie
+03,avignon tgv,non,porte ouverte en ligne
+07,calais,oui,franchissement de signal
+07,bordeaux poste 3,non,franchissement de signal
+07,saint-denis,non,incident caténaire
+06,varennes-sur-fouzon,non,collision contre obstacle à un passage à niveau
+07,entre teting pl et saint-avold pl,oui,collision
+07,miramas,non,franchissement de signal
+07,albertville,non,incident caténaire
+07,miramas,oui,collision entre trains ou éléments de trains
+07,foucherans,oui,raté de fermeture à un passage à niveau
+07,gare de coueron,non,accident de personne
+06,bellenaves,oui,collision contre obstacle à un passage à niveau
+05,saint rambert d'albon,non,incendie dans un train
+05,bellegarde,non,incident caténaire
+05,gare de trappes poste 3,non,franchissement de signal
+06,mantes la jolie,non,non alimentation de la conduite principale
+05,agde,non,accident du travail
+06,saint-pierre-le-moutier,non,incident caténaire
+05,phalempin,non,non respect du point d’arrêt
+06,saint-clément,non,collision contre obstacle à un passage à niveau
+05,chantier multi technique d'avigon,non,déraillement sans engagement de la voie principale
+08,paris nord poste 1b,oui,pénétration intempestive sur domaine fermé
+08,saint aignan noyers,oui,raté de fermeture à un passage à niveau
+08,villers-cotterets,oui,mise en œuvre de travaux en dehors du domaine fermé
+08,verberie,non,déraillement sans engagement de la voie principale
+08,paris saint-lazare,oui,dérive
+08,sollies-pont,oui,porte ouverte en ligne
+08,changis saint-jean,oui,incendie dans un train
+08,paris charolais,non,collision avec enfoncement de heurtoir
+08,entre reuilly et fontaine mercurey,non,incident grave de signalisation
+08,entre savenay et donges,oui,défaillance voie
+04,dombasle,non,franchissement de signal
+04,entre chantonnay et bournezeau,oui,raté de fermeture à un passage à niveau
+05,les essarts-le-roi,oui,porte ouverte en ligne
+05,emerainville,non,franchissement de signal
+05,batignolles - poste 3,non,départ sans autorisation
+05,noisy faisceau banlieue,non,franchissement de signal
+04,gare de batignolles - poste 5,non,déraillement sans engagement de la voie principale
+05,lyon,non,engagement de gabarit suite à désemparement de pièce
+04,barisey-la-cote,non,défaillance voie
+05,nevers,non,dégagement de fumée sur matériel roulant
+03,gare de pont cardinet,non,réception intempestive sur voie occupée
+03,batignolles,non,réception intempestive sur voie occupée
+03,sotteville,non,sortie intempestive ou engagement d’un domaine fermé
+03,bollène la croisière,non,talonnage d’aiguille ou bivoie
+03,toulouse,non,collision contre obstacle
+03,vénissieux,non,déraillement sans engagement de la voie principale
+03,belfort,non,déraillement
+03,luxembourg ville,oui,franchissement de signal
+03,sète,non,déraillement sans engagement de la voie principale
+03,lille garolille,non,dérive
+08,serqueux,non,erreur de procédure
+09,reims,non,perte d’organe du matériel roulant
+09,tournon,non,incident caténaire
+09,entre saint valery en caux et motteville,oui,défaillance voie
+02,nogent le perreux,oui,talonnage d’aiguille ou bivoie
+02,gare de paris saint lazare,non,départ sans autorisation
+02,anthéor-cap roux,oui,désordre d’ouvrage en terre
+03,metz-ville,oui,dérive
+02,creil,oui,porte ouverte en ligne
+02,iles sur le doubs,non,collision contre obstacle à un passage à niveau
+02,strasbourg cronenbourg,non,réception intempestive sur voie occupée
+02,clermont de l’oise,oui,défaillance voie
+02,castelnaudary,non,déraillement sans engagement de la voie principale
+02,villeneuve prairie,non,déraillement
+02,ambérieu,non,engagement intempestif d’une circulation sur une voie protégée
+02,dijon,non,franchissement de signal
+02,argenteuil triage,non,réception intempestive sur voie occupée
+02,annemasse,oui,déraillement sans engagement de la voie principale
+02,trappes,non,départ sans autorisation
+02,compiègne,oui,raté de fermeture à un passage à niveau
+02,paris montparnasse,non,sortie intempestive ou engagement d’un domaine fermé
+02,biarritz,non,déraillement sans engagement de la voie principale
+02,belfort,non,talonnage d’aiguille ou bivoie
+02,st germain au mont d’or,non,accostage brutal
+09,vitry-la-ville,non,collision
+09,troyes,oui,incendie dans un train
+09,chatillon sur seine,non,déraillement
+09,entre agonac et château l'eveque,oui,expédition sans ordre
+09,miramas,oui,matières dangereuses
+09,marigny,oui,dépassement de vitesse supérieur à 40km/h
+09,narbonne,oui,matières dangereuses
+10,paris saint-lazare,non,dérive
+09,marmande,non,engagement de gabarit suite à désemparement de pièce
+10,cannes,oui,désordre d’ouvrage en terre
+05,limoges,oui,dépassement de vitesse supérieur à 40km/h
+05,roissy charles de gaulle,oui,dépassement de vitesse supérieur à 40km/h
+05,moret,oui,porte ouverte en ligne
+05,beziers capisol,oui,déraillement
+05,ambérieu,non,réception intempestive sur voie occupée
+05,chalindrey,oui,collision entre trains ou éléments de trains
+05,montauban,non,composition non conforme
+05,gare nantes etat,non,talonnage d’aiguille ou bivoie
+06,entre montfort l'amaury mère et garancières la queue,non,raté de fermeture à un passage à niveau
+05,souillac,non,départ sans autorisation
+10,ite carrieres de pagnac,non,défaillance voie
+11,entre firminy et aurec,oui,incident grave de signalisation
+10,reims,oui,incident grave de signalisation
+10,quimper,non,franchissement de signal
+11,paris-batignolles,non,dérive
+10,vénissieux,non,réception intempestive sur voie occupée
+11,haubourdin,oui,raté de fermeture à un passage à niveau
+10,selestat,non,déraillement
+10,pavillons-sous-bois,non,collision contre obstacle à un passage à niveau
+11,imphy,oui,dépassement de vitesse supérieur à 40km/h
+02,laroche migennes,non,talonnage d’aiguille ou bivoie
+01,entre lapalud et piolenc,non,restitution dfv sans dégagement
+01,mommenheim,oui,porte ouverte en ligne
+01,courtalain saint pellerin,oui,déraillement
+01,forbach,non,déraillement sans engagement de la voie principale
+01,tunnel de saint laurent,non,déraillement
+01,corbie,oui,porte ouverte en ligne
+01,urt,non,défaut géométrie voie
+01,orléans,non,franchissement de signal
+01,entre la rochelle et marans,oui,dépassement de vitesse supérieur à 40km/h
+04,mulhouse,non,dérive
+04,entre tacoigneres richebourg et houdan,oui,collision entre trains ou éléments de trains
+05,entre paris nord et stade de france,non,talonnage d’aiguille ou bivoie
+04,jussy,non,collision contre obstacle à un passage à niveau
+05,roubaix,non,dégagement de fumée sur matériel roulant
+04,trappes,non,dérive
+04,woippy,non,collision
+05,montrabe,non,engagement de gabarit suite à désemparement de pièce
+04,entre cherbourg et lison,non,erreur de procédure
+04,versailles chantier,oui,défaut géométrie voie
+09,entre nancy et saint-die,oui,raté de fermeture à un passage à niveau
+12,le mans,oui,déraillement
+12,sarrebourg,non,déraillement sans engagement de la voie principale
+12,reignac,non,collision contre obstacle
+01,perrigny,non,talonnage d’aiguille ou bivoie
+01,agen,non,collision avec enfoncement de heurtoir
+12,lille délivrance,non,talonnage d’aiguille ou bivoie
+01,bègles,non,engagement de gabarit suite à désemparement de pièce
+12,entre velluire et la rochelle,oui,dépassement de vitesse supérieur à 40km/h
+12,vougeot,non,collision contre obstacle
+04,morcenx,non,accident de marchandise dangereuse
+04,longuevilles rochejean,oui,sortie intempestive ou engagement d’un domaine fermé
+04,château thierry,non,dépassement de vitesse supérieur à 40km/h
+04,argenteuil,oui,dégagement intempestif du domaine fermé
+04,vic le comte,oui,franchissement de signal
+03,bonneville,oui,réception intempestive sur voie occupée
+03,entre chef du pont sainte-mère et carentan,non,franchissement de signal
+03,lutzelbourg,non,perte d’organe du matériel roulant
+03,mâcon,non,incident grave de signalisation
+04,grenoble,oui,franchissement de signal
+12,guingamp,oui,incident grave de signalisation
+11,angoulême,non,défaillance voie
+12,melun,oui,franchissement de signal
+12,chalôns en champagne,non,collision contre obstacle
+11,luxembourg (luxembourg),oui,franchissement de signal
+12,gare de pont-cardinet,non,franchissement de signal
+11,arles,oui,franchissement de signal
+11,eckwersheim,oui,déraillement
+11,pihen,non,collision contre obstacle
+11,orléans,non,perte d’organe du matériel roulant
+02,saint maixent,oui,mauvaise matérialisation du point de dégagement
+02,survilliers,non,talonnage d’aiguille ou bivoie
+03,vayres,oui,heurt au croisement
+02,pons,non,incendie en gare
+02,amberieu,non,circulation de véhicule non autorisée
+02,yvetot,oui,dérive
+02,le bourget,non,réception intempestive sur voie occupée
+02,saint pierre des corps,non,défaillance voie
+02,ermont-eaubonne,non,franchissement de signal
+02,hourcade,oui,hourcade
+06,saint pierre des corps,oui,expédition sans ordre
+06,coutras,non,non mise en protection
+03,saint pierre des corps,oui,franchissement de signal
+03,montbard,non,déraillement
+03,hausbergen,oui,talonnage d’aiguille ou bivoie
+03,bully-grenay,non,porte non vérroullée
+03,lyon part-dieu,non,incident caténaire
+03,trappes,non,déraillement sans engagement de la voie principale
+03,les aubrais,non,déraillement sans engagement de la voie principale
+03,vic mireval,oui,
+03,woippy,oui,défaut géométrie voie
+03,entre la ferté milon et oulchy,oui,défaut géométrie voie
+07,bordeaux saint-jean,oui,franchissement de signal
+06,revigny,non,dégagement de fumée sur matériel roulant
+06,aix-les-bains,non,arrêt hors de quai de tout ou partie d’un train de voyageurs
+06,hazebrouck,oui,franchissement de signal
+02,isle jourdain,non,collision contre obstacle
+01,entre magland et sallanches,oui,erreur de procédure
+02,villemomble,oui,défaillance voie
+02,lyon,non,non conformité du matériel roulant
+02,melun,non,avarie matériel roulant
+02,breaute-beauzeville,non,déraillement sans engagement de la voie principale
+01,saint jean-de-maurienne,non,matières dangereuses
+03,sevres,non,dégagement intempestif du domaine fermé
+03,entre motteville et malaunay le houlme,non,dérive
+03,saint fons,non,mouvement en sens inverse du sens normal
+02,toulouse,non,réalimentation intempestive des caténaires
+03,villeneuve saint georges,oui,avarie matériel roulant
+02,metz,non,erreur d’itinéraire
+01,tours,oui,déraillement
+03,sous station de tivernon,non,electrisation
+03,toulon,non,ouverture par un tiers d’une porte de tgv en marche
+01,vestric-lunel,oui,porte ouverte en ligne
+03,chambery,non,dérive
+03,calais,oui,franchissement de signal
+03,kalhausen,oui,erreur grave de procédure
+03,bordeaux,non,réalimentation intempestive des caténaires
+03,technicentre de nevers,non,accident du travail
+03,dijon,oui,défaillance voie
+03,technicentre dyu landy,non,electrisation
+08,sibelin,non,incident de marchandise dangereuse
+09,versailles,non,déraillement
+07,sablé,oui,erreur de procédure
+09,francheville,non,défaut géométrie voie
+08,villeneuve st-georges,non,franchissement de signal
+07,chantenay,oui,collision
+08,haussmann st-lazare,non,collision contre obstacle
+10,rochefort,oui,défaut géométrie voie
+08,le mans,non,electrisation
+08,entre rang-du-fliers et lille,non,perte d’organe du matériel roulant
+07,modane,oui,dérive
+07,cazeres sur garonne-carbonne,oui,dépassement de vitesse supérieur à 40km/h
+07,thiviers,oui,franchissement de signal
+07,saint prix,oui,collision entre trains ou éléments de trains
+07,paris est,oui,dérive
+06,pau,non,incendie dans un train
+07,mouthiers,non,talonnage d’aiguille ou bivoie
+07,dourges,non,collision avec enfoncement de heurtoir
+06,entre nort-sur-erdre et abbaretz,non,accident du travail
+06,entre bellac et nantiat,non,défaillance voie
+06,bretigny,oui,défaillance d'ouvrage
+06,entre font-romeu et bolquere-eyne,non,défaillance voie
+06,lisieux,oui,présence de voyageurs sur voie
+06,clelles,non,autorisation de franchissement sans vérification
+06,nevers,oui,non respect du point d'arrêt
+06,pas-des-lanciers,non,accident de marchandise dangereuse
+06,entre cieurac et cahors,non,porte ouverte en ligne
+06,le puy saint firminy,non,accident du travail
+06,la ferte milon,oui,défaut géométrie voie
+06,marseille,non,collision avec enfoncement de heurtoir
+10,abbeville et amiens,non,raté de fermeture à un passage à niveau
+11,infrapole paris sud est,non,accident du travail
+10,perrigny p2,non,défaillance d'ouvrage
+10,morlaix et rennes,oui,dépassement de vitesse supérieur à 40km/h
+10,balbigny,oui,raté de fermeture à un passage à niveau
+10,retiers,oui,déraillement
+11,fourchambault,oui,défaut géométrie voie
+10,infrapole auvergne nivernais,non,accident du travail
+11,perpignan,non,perte d’organe du matériel roulant
+10,infrapole auvergne nivernais,non,accident du travail
+12,vaires,oui,erreur de procédure
+10,albigny,oui,intempéries
+12,longeray-leaz,oui,raté de fermeture à un passage à niveau
+11,crest,oui,porte ouverte en ligne
+10,villeneuve st georges,oui,expédition sans ordre
+01,albi,oui,franchissement de signal
+04,grenay,oui,avarie matériel roulant
+03,entre rennes et saint malo,oui,erreur de procédure
+02,lens,oui,autorisation de franchissement sans vérification
+04,romans bourg de pêage,oui,raté de fermeture à un passage à niveau
+03,fleurville,oui,erreur de procédure
+03,belfort,oui,talonnage d’aiguille ou bivoie
+03,val les marais,oui,dérive
+03,bizanos,oui,raté de fermeture à un passage à niveau
+02,montpellier - lattes,oui,sortie intempestive ou engagement d’un domaine fermé
+02,thionville,oui,dérive
+08,mulhouse,oui,collision entre trains ou éléments de trains
+08,marseille,oui,déraillement
+08,saint gervais,oui,franchissement de signal
+10,la seyne tamaris sur mer,oui,franchissement de signal
+07,bourgogne,oui,heurt au croisement
+08,château landon,oui,défaut géométrie voie
+10,poitiers,oui,porte ouverte en ligne
+11,aubagne,oui,franchissement de signal
+10,saint agnan,oui,raté de fermeture à un passage à niveau
+09,coulomniers,oui,défaut géométrie voie
+05,varades,non,erreur de procédure
+05,metz-ville,non,circulation de véhicule non autorisée
+05,pas-des-lanciers,non,incident caténaire
+05,grande opération programmée de mulhouse,non,accident du travail
+06,mitry claye,non,franchissement de signal
+06,toulouse,non,erreur de procédure
+05,nimes,non,engagement de gabarit suite à désemparement de pièce
+05,paris montparnasse,oui,engagement intempestif d’une circulation sur une voie protégée
+05,connerre-beille,non,arrêt hors de quai de tout ou partie d’un train de voyageurs
+05,lille-flandres,non,avarie matériel roulant
+05,mulhouse,oui,franchissement de signal
+05,pont à vendin,non,collision contre obstacle
+05,chece varains,oui,raté de fermeture à un passage à niveau
+05,blainville damelevieres,non,talonnage d’aiguille ou bivoie
+05,gare de aubergenville-elisabethville,non,franchissement de signal
+05,entre bayonne et biarritz,non,franchissement de signal
+06,bedous,non,incident grave de passage à niveau
+06,viroflay-rive-gauche,oui,incendie dans un train
+05,reims,non,franchissement de signal
+06,golfe de fos,non,non mise en protection
+06,autigny-le-grand,nd,collision contre obstacle à un passage à niveau
+06,eparcieux saint paul,non,raté de fermeture à un passage à niveau
+06,entre les aubrais et toury,non,porte ouverte en ligne
+05,marseille,non,dégagement de fumée sur matériel roulant
+02,champtocé sur loire & la possonnière,oui,incident grave de signalisation
+03,sibelin,oui,dérive
+03,vénissieux dépôt,non,incident caténaire
+02,lyon,non,sortie intempestive ou engagement d’un domaine fermé
+03,vendôme,oui,déraillement
+02,sibelin,non,déraillement sans engagement de la voie principale
+02,denain,oui,raté de fermeture à un passage à niveau
+02,nantes blottereau poste 3,non,franchissement de signal
+02,belleville sur saône,non,déraillement sans engagement de la voie principale
+02,limoges dépôt,non,déraillement sans engagement de la voie principale
+04,saint-hilaire,oui,franchissement de signal
+03,vierzon,non,déraillement sans engagement de la voie principale
+03,dijon ville,non,dérive
+04,entre sète et béziers,oui,défaillance voie
+03,amiens,non,déraillement sans engagement de la voie principale
+03,reims,non,accident de personne
+03,lyon part dieu,non,composition non conforme
+03,perrigny poste 2,non,déraillement sans engagement de la voie principale
+03,beaune,non,réception intempestive sur voie occupée
+03,blanc misseron,non,déraillement
+02,lyon guillotière,non,engagement intempestif d’une circulation sur une voie protégée
+02,clermont ferrand,non,franchissement de signal
+02,tarbes,non,engagement intempestif d’une circulation sur une voie protégée
+02,juvisy,non,engagement intempestif d’une circulation sur une voie protégée
+02,montdidier,non,expédition sans ordre
+02,chamonix,non,talonnage d’aiguille ou bivoie
+02,lyon perrache,non,circulation de véhicule non autorisée
+02,villers cotterets,oui,désordre d’ouvrage en terre
+02,lyon montluçon,non,talonnage d’aiguille ou bivoie
+02,annemasse,non,talonnage d’aiguille ou bivoie
+04,lens,oui,collision par prise en écharpe
+04,entre beaulieu-sur-mer et eze-sur-mer,oui,raté de fermeture à un passage à niveau
+04,gare de nancy ville,non,accident de personne
+04,blainville,non,réception intempestive sur voie occupée
+04,la fere,non,accident de personne
+04,haubourdin,oui,raté de fermeture à un passage à niveau
+04,bayonne,non,franchissement de signal
+03,mende,oui,déraillement
+03,aubagne,non,franchissement de signal
+03,meyrargues,non,talonnage d’aiguille ou bivoie
+03,bobigny,non,nez à nez
+03,chauny,oui,porte ouverte en ligne
+03,miramas,non,franchissement de signal
+03,reims,non,déraillement
+03,gare de paris saint lazare,non,départ sans autorisation
+03,entre bricon et châteauvillain,oui,déraillement
+03,st germain au mont d’or,non,déraillement sans engagement de la voie principale
+05,laroche migennes,non,engagement intempestif d’une circulation sur une voie protégée
+05,bayonne,oui,franchissement de signal
+04,saint-jodard et saint-étienne-chateaucreux,oui,défaillance voie
+05,entre pontrieux halte et brelidy-plouec,oui,collision contre obstacle à un passage à niveau
+04,groisy-thorens-la-caille,oui,désordre ouvrage d’art
+05,nevers,non,collision contre obstacle
+04,saint-martin-de-crau,oui,défaillance voie
+05,mirecourt,non,déraillement sans engagement de la voie principale
+08,saint-georges-d'espérance,oui,incendie dans un train
+08,bordeaux hourcade,oui,sortie intempestive ou engagement d’un domaine fermé
+08,entre saint-pierre le moutier et saincaize,oui,incident grave de signalisation
+08,entre font-romeu et saint-leocadie,oui,raté de fermeture à un passage à niveau
+08,entre pont de veyle et macon ville,oui,défaillance voie
+08,saint matthieu,oui,défaillance voie
+08,cazères-sur-garonne,non,perte d’organe du matériel roulant
+08,cazères-sur-garonne,nd,collision contre obstacle à un passage à niveau
+08,woippy paloma,non,collision entre trains ou éléments de trains
+08,villeneuve les maguelone,non,collision contre obstacle
+07,entre achères et maisons lafitte,oui,défaillance voie
+08,portes les valence,non,déraillement sans engagement de la voie principale
+08,hourcade,non,franchissement de signal
+07,armentières,oui,incendie dans un train
+07,hourcade,non,incident de marchandise dangereuse
+08,entre noyal-a. pl et cesson-s pl,oui,collision contre obstacle et deraillement
+07,amiens,non,talonnage d’aiguille ou bivoie
+08,limoges dépôt,non,dérive et collision
+08,voujeaucourt,oui,incendie dans un train
+08,entre rethel et reims,non,acte de malveillance
+06,oulchy breny,non,erreur grave de procédure
+06,entre saint-just sur loire et le coteau,non,incident grave de signalisation
+07,saze,oui,sortie intempestive ou engagement d’un domaine fermé
+06,narbonne,oui,dépassement de vitesse supérieur à 40km/h
+07,gare de bussière-galant,non,erreur d’itinéraire
+06,pantin,non,accident de personne
+07,le landy,non,franchissement de signal
+07,bussieres galant,oui,incendie dans un train
+07,rennes,oui,incident grave de signalisation
+06,saint vallier sur rhône,oui,défaut géométrie voie
+06,châlons en champagne,oui,dérive
+05,dijon,oui,non mise en protection
+05,moulin neuf,non,déraillement
+05,saint denis pres martel,non,erreur de procédure
+05,bailleau le pïn,oui,dépassement de vitesse supérieur à 40km/h
+05,entre saint-sebastien-frene-rond pl et saint-sebastien-pas-enchantes pl,non,collision contre obstacle à un passage à niveau
+05,montluel,oui,boîte chaude
+05,entre le havre et rouen r.d.,non,perte d’organe du matériel roulant
+05,béziers,non,engagement de gabarit suite à désemparement de pièce
+05,entre agen et port sainte marie,oui,dépassement de vitesse supérieur à 40km/h
+04,montauban,non,engagement intempestif d’une circulation sur une voie protégée
+06,yvetot,oui,collision avec enfoncement de heurtoir
+03,noisy-le-sec,non,franchissement de signal
+06,troissereux fouquenies,oui,désordre d’ouvrage en terre
+05,corbeil-essonnes,non,franchissement de signal
+05,vénissieux,non,circulation de véhicule non autorisée
+06,lyon,non,collision entre trains ou éléments de trains
+06,landivisiau,non,collision contre obstacle à un passage à niveau
+06,entre vallorbe et frasne,non,collision contre obstacle
+04,bouaye,oui,réception intempestive sur voie occupée
+05,entre st maixent et la creche,non,erreur de procédure
+04,caen,non,sortie intempestive ou engagement d’un domaine fermé
+04,la motte breuil,non,défaut géométrie voie
+05,rouffach,non,franchissement de signal
+05,limoges,non,collision avec enfoncement de heurtoir
+04,gerland,non,perte d’organe du matériel roulant
+03,belfort,non,sortie intempestive ou engagement d’un domaine fermé
+03,technicentre rhone alpes,non,electrisation
+05,le buisson,oui,déraillement
+06,caen,oui,dérive
+05,angers,oui,erreur de procédure
+05,culoz,oui,erreur de procédure
+05,auffay,oui,raté de fermeture à un passage à niveau
+06,dax,oui,franchissement de signal
+05,chereng,oui,raté de fermeture à un passage à niveau
+06,woippy,oui,matières dangereuses
+05,champs saint bris-yonne,oui,raté de fermeture à un passage à niveau
+07,paris nord,oui,collision avec enfoncement de heurtoir
+05,strasbourg,oui,collision entre trains ou éléments de trains
+12,chinon,oui,perte d’organe du matériel roulant
+01,saint-germain des fosses,oui,déraillement
+02,portet saint simon,oui,raté de fermeture à un passage à niveau
+01,pagny le château,oui,erreur de procédure
+01,beny,oui,intempéries
+01,marseille-chartreux,oui,franchissement de signal
+01,rosporden et quimper,oui,dépassement de vitesse supérieur à 40km/h
+01,leucate-la franqui,oui,incendie dans un train
+12,pierrelatte,non,erreur de procédure
+01,saint rome de cernon,oui,intempéries
+12,lannemezan,oui,erreur de procédure
+12,millas,oui,collision
+11,dourdan,oui,délivrance d’un bulletin de franchissement sans vérification
+12,paris montparnasse,oui,dérive
+11,roquemaure,oui,dépassement de vitesse supérieur à 40km/h
+12,saint côme,oui,défaut géométrie voie
+12,montereau,oui,collision
+12,saint claude,non,talonnage d’aiguille ou bivoie
+11,entre le mans et connere-breille,non,porte ouverte en ligne
+12,nancy,oui,porte ouverte en ligne
+05,entre amberieu et montluel,oui,porte ouverte en ligne
+05,amberieu,non,déraillement sans engagement de la voie principale
+05,entre mezidon et lecaude,non,perte d’organe du matériel roulant
+06,la verrière,non,collision avec enfoncement de heurtoir
+05,entre clisson et la roche sur yon,non,porte ouverte en ligne
+06,bethisy saint-pierre,oui,acte de malveillance
+06,entre virieu et pressins,oui,défaut géométrie voie
+05,le plessis belleville,oui,raté de fermeture à un passage à niveau
+05,wattignies templars,non,non respect du point d’arrêt
+09,saint michel sur orge,oui,accident du travail
+09,entre dreux et marchezais-broue,non,déraillement sans engagement de la voie principale
+09,poitiers,non,réception intempestive sur voie occupée
+09,achères,non,déraillement
+11,marne la vallee,oui,ouverture par un tiers d’une porte de tgv en marche
+10,bussiere galan,oui,erreur de procédure
+10,st gaudens,oui,raté de fermeture à un passage à niveau
+11,entre troyes et brienne,oui,défaut géométrie voie
+11,saint gaudens,oui,raté de fermeture à un passage à niveau
+11,retournac,oui,réception intempestive sur voie occupée
+09,marseille,oui,sortie intempestive ou engagement d’un domaine fermé
+10,le bugue,oui,défaillance d'ouvrage
+11,chateauroux,oui,dérangement des installations de sécurité
+09,nissan,oui,porte ouverte en ligne
+12,wesserling,oui,franchissement de signal
+11,saumur,oui,dépassement de vitesse supérieur à 40km/h
+08,clermont ferrand,non,pénétration intempestive sur domaine fermé
+08,le havre,non,porte ouverte en ligne
+12,meaux,non,incendie dans un train
+12,livry gargan,oui,franchissement de signal
+12,tergnier,oui,défaut géométrie voie
+12,etang sur auroux,oui,collision contre obstacle
